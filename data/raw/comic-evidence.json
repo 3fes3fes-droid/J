@@ -1,0 +1,5121 @@
+{
+  "generatedAt": "2026-08-12T14:10:18.745Z",
+  "scan": {
+    "expectedPages": 6260,
+    "indexedPages": 6260,
+    "ocrErrors": 0
+  },
+  "volumes": {
+    "0": {
+      "available": true,
+      "pageCount": 206,
+      "firstPage": 1,
+      "lastPage": 206,
+      "verifiedChapterStarts": 4
+    },
+    "1": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 7
+    },
+    "2": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "3": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "4": {
+      "available": true,
+      "pageCount": 206,
+      "firstPage": 1,
+      "lastPage": 206,
+      "verifiedChapterStarts": 9
+    },
+    "5": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "6": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "7": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "8": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "9": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "10": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "11": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "12": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "13": {
+      "available": true,
+      "pageCount": 198,
+      "firstPage": 1,
+      "lastPage": 198,
+      "verifiedChapterStarts": 9
+    },
+    "14": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "15": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "16": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "17": {
+      "available": true,
+      "pageCount": 208,
+      "firstPage": 1,
+      "lastPage": 208,
+      "verifiedChapterStarts": 10
+    },
+    "18": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "19": {
+      "available": true,
+      "pageCount": 216,
+      "firstPage": 1,
+      "lastPage": 216,
+      "verifiedChapterStarts": 10
+    },
+    "20": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "21": {
+      "available": true,
+      "pageCount": 224,
+      "firstPage": 1,
+      "lastPage": 224,
+      "verifiedChapterStarts": 10
+    },
+    "22": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "23": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "24": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "25": {
+      "available": true,
+      "pageCount": 216,
+      "firstPage": 1,
+      "lastPage": 216,
+      "verifiedChapterStarts": 10
+    },
+    "26": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "27": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "28": {
+      "available": true,
+      "pageCount": 208,
+      "firstPage": 1,
+      "lastPage": 208,
+      "verifiedChapterStarts": 9
+    },
+    "29": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 9
+    },
+    "30": {
+      "available": true,
+      "pageCount": 200,
+      "firstPage": 1,
+      "lastPage": 200,
+      "verifiedChapterStarts": 8
+    }
+  },
+  "chapters": {
+    "zero-01": {
+      "pageRange": {
+        "start": 5,
+        "end": 58
+      },
+      "scenes": [
+        5,
+        22,
+        38,
+        52
+      ],
+      "characters": {
+        "char-c28763b98a": [
+          36
+        ],
+        "char-ba2d62b596": [
+          21,
+          58
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-c91391b066": [
+          14
+        ]
+      }
+    },
+    "zero-02": {
+      "pageRange": {
+        "start": 59,
+        "end": 104
+      },
+      "scenes": [
+        59,
+        74,
+        87,
+        99
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-deb6545546": [
+          80
+        ]
+      },
+      "terms": {}
+    },
+    "zero-03": {
+      "pageRange": {
+        "start": 105,
+        "end": 150
+      },
+      "scenes": [
+        105,
+        120,
+        133,
+        145
+      ],
+      "characters": {
+        "char-58278d1ec5": [
+          114
+        ],
+        "char-ba2d62b596": [
+          149
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "zero-04": {
+      "pageRange": {
+        "start": 151,
+        "end": 199
+      },
+      "scenes": [
+        151,
+        167,
+        181,
+        193
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-001": {
+      "pageRange": {
+        "start": 5,
+        "end": 60
+      },
+      "scenes": [
+        5,
+        23,
+        39,
+        53
+      ],
+      "characters": {
+        "char-2b8d365a39": [
+          6
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-002": {
+      "pageRange": {
+        "start": 61,
+        "end": 86
+      },
+      "scenes": [
+        61,
+        69,
+        77,
+        83
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-003": {
+      "pageRange": {
+        "start": 87,
+        "end": 110
+      },
+      "scenes": [
+        87,
+        95,
+        101,
+        107
+      ],
+      "characters": {
+        "char-58278d1ec5": [
+          93
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-3f92b6bb78": [
+          93,
+          109
+        ]
+      }
+    },
+    "ch-004": {
+      "pageRange": {
+        "start": 111,
+        "end": 130
+      },
+      "scenes": [
+        111,
+        117,
+        123,
+        128
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-005": {
+      "pageRange": {
+        "start": 131,
+        "end": 150
+      },
+      "scenes": [
+        131,
+        137,
+        143,
+        148
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-d321a3c48f": [
+          149
+        ]
+      }
+    },
+    "ch-006": {
+      "pageRange": {
+        "start": 151,
+        "end": 170
+      },
+      "scenes": [
+        151,
+        157,
+        163,
+        168
+      ],
+      "characters": {
+        "char-0ee8c4b0ae": [
+          161
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-d321a3c48f": [
+          151
+        ],
+        "term-8914e5bc1a": [
+          152
+        ]
+      }
+    },
+    "ch-007": {
+      "pageRange": {
+        "start": 171,
+        "end": 191
+      },
+      "scenes": [
+        171,
+        178,
+        183,
+        189
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-008": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-009": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-010": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {
+        "char-672d843799": [
+          56
+        ],
+        "char-d4a4bc45c6": [
+          51
+        ],
+        "char-a61d6ef891": [
+          56
+        ],
+        "char-24d736edff": [
+          56
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-011": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-012": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        99,
+        104
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-013": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-014": {
+      "pageRange": {
+        "start": 127,
+        "end": 146
+      },
+      "scenes": [
+        127,
+        133,
+        139,
+        144
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-015": {
+      "pageRange": {
+        "start": 147,
+        "end": 166
+      },
+      "scenes": [
+        147,
+        153,
+        159,
+        164
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-016": {
+      "pageRange": {
+        "start": 167,
+        "end": 191
+      },
+      "scenes": [
+        167,
+        175,
+        182,
+        188
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-017": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-018": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {
+        "char-ac327bdd73": [
+          36
+        ],
+        "char-0bca269a4a": [
+          32
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-019": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {
+        "char-6309a7e2f4": [
+          55
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-e3eff1da1c": [
+          55
+        ]
+      }
+    },
+    "ch-020": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-021": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        99,
+        104
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-022": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-023": {
+      "pageRange": {
+        "start": 127,
+        "end": 148
+      },
+      "scenes": [
+        127,
+        134,
+        140,
+        145
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-024": {
+      "pageRange": {
+        "start": 149,
+        "end": 168
+      },
+      "scenes": [
+        149,
+        155,
+        161,
+        166
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-025": {
+      "pageRange": {
+        "start": 169,
+        "end": 191
+      },
+      "scenes": [
+        169,
+        176,
+        183,
+        188
+      ],
+      "characters": {
+        "char-c0e690427b": [
+          169
+        ],
+        "char-236cc955ae": [
+          169
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-8914e5bc1a": [
+          169
+        ]
+      }
+    },
+    "ch-026": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {
+        "char-cf2d32d5b9": [
+          8
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-027": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        40,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-028": {
+      "pageRange": {
+        "start": 47,
+        "end": 70
+      },
+      "scenes": [
+        47,
+        55,
+        61,
+        66
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-029": {
+      "pageRange": {
+        "start": 71,
+        "end": 90
+      },
+      "scenes": [
+        71,
+        77,
+        83,
+        88
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-030": {
+      "pageRange": {
+        "start": 91,
+        "end": 110
+      },
+      "scenes": [
+        91,
+        97,
+        103,
+        108
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-e3eff1da1c": [
+          93
+        ],
+        "term-e6a70dfe56": [
+          92
+        ]
+      }
+    },
+    "ch-031": {
+      "pageRange": {
+        "start": 111,
+        "end": 132
+      },
+      "scenes": [
+        111,
+        118,
+        124,
+        129
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-032": {
+      "pageRange": {
+        "start": 133,
+        "end": 154
+      },
+      "scenes": [
+        133,
+        140,
+        146,
+        151
+      ],
+      "characters": {
+        "char-830f121430": [
+          146
+        ],
+        "char-3de3b8af11": [
+          147
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-033": {
+      "pageRange": {
+        "start": 155,
+        "end": 174
+      },
+      "scenes": [
+        155,
+        161,
+        167,
+        172
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-549dd18f32": [
+          155
+        ]
+      }
+    },
+    "ch-034": {
+      "pageRange": {
+        "start": 175,
+        "end": 199
+      },
+      "scenes": [
+        175,
+        183,
+        190,
+        196
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-035": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        23
+      ],
+      "characters": {
+        "char-0bca269a4a": [
+          26
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-549dd18f32": [
+          9
+        ]
+      }
+    },
+    "ch-036": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {
+        "char-672d843799": [
+          28
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-549dd18f32": [
+          27
+        ]
+      }
+    },
+    "ch-037": {
+      "pageRange": {
+        "start": 47,
+        "end": 68
+      },
+      "scenes": [
+        47,
+        54,
+        60,
+        65
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-549dd18f32": [
+          47
+        ]
+      }
+    },
+    "ch-038": {
+      "pageRange": {
+        "start": 69,
+        "end": 88
+      },
+      "scenes": [
+        69,
+        75,
+        81,
+        86
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-phase3-gorilla-mode": [
+          87
+        ],
+        "tech-c2ae5ed6dc": [
+          83
+        ]
+      },
+      "terms": {
+        "term-549dd18f32": [
+          69
+        ]
+      }
+    },
+    "ch-039": {
+      "pageRange": {
+        "start": 89,
+        "end": 110
+      },
+      "scenes": [
+        89,
+        96,
+        101,
+        107
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-c2ae5ed6dc": [
+          108
+        ]
+      },
+      "terms": {
+        "term-549dd18f32": [
+          89,
+          108
+        ]
+      }
+    },
+    "ch-040": {
+      "pageRange": {
+        "start": 111,
+        "end": 130
+      },
+      "scenes": [
+        111,
+        117,
+        123,
+        128
+      ],
+      "characters": {
+        "char-24d736edff": [
+          130
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-549dd18f32": [
+          111
+        ]
+      }
+    },
+    "ch-041": {
+      "pageRange": {
+        "start": 131,
+        "end": 150
+      },
+      "scenes": [
+        131,
+        137,
+        143,
+        148
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-2ac2471b12": [
+          137
+        ]
+      },
+      "terms": {
+        "term-549dd18f32": [
+          131
+        ]
+      }
+    },
+    "ch-042": {
+      "pageRange": {
+        "start": 151,
+        "end": 170
+      },
+      "scenes": [
+        151,
+        157,
+        163,
+        168
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-549dd18f32": [
+          151
+        ]
+      }
+    },
+    "ch-043": {
+      "pageRange": {
+        "start": 171,
+        "end": 191
+      },
+      "scenes": [
+        171,
+        178,
+        183,
+        189
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-549dd18f32": [
+          181,
+          191
+        ]
+      }
+    },
+    "ch-044": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-549dd18f32": [
+          7
+        ]
+      }
+    },
+    "ch-045": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        38,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-046": {
+      "pageRange": {
+        "start": 47,
+        "end": 68
+      },
+      "scenes": [
+        47,
+        54,
+        60,
+        65
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-047": {
+      "pageRange": {
+        "start": 69,
+        "end": 88
+      },
+      "scenes": [
+        69,
+        75,
+        81,
+        86
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-048": {
+      "pageRange": {
+        "start": 89,
+        "end": 108
+      },
+      "scenes": [
+        89,
+        95,
+        101,
+        106
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-69d5ecb511": [
+          89
+        ]
+      },
+      "terms": {
+        "term-69d5ecb511": [
+          89
+        ]
+      }
+    },
+    "ch-049": {
+      "pageRange": {
+        "start": 109,
+        "end": 130
+      },
+      "scenes": [
+        109,
+        116,
+        122,
+        127
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-050": {
+      "pageRange": {
+        "start": 131,
+        "end": 150
+      },
+      "scenes": [
+        131,
+        137,
+        143,
+        148
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-051": {
+      "pageRange": {
+        "start": 151,
+        "end": 172
+      },
+      "scenes": [
+        151,
+        158,
+        164,
+        169
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-3a1afe6fc8": [
+          151
+        ]
+      },
+      "terms": {}
+    },
+    "ch-052": {
+      "pageRange": {
+        "start": 173,
+        "end": 191
+      },
+      "scenes": [
+        173,
+        179,
+        184,
+        189
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-053": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-054": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-055": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-056": {
+      "pageRange": {
+        "start": 67,
+        "end": 90
+      },
+      "scenes": [
+        67,
+        75,
+        81,
+        87
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-057": {
+      "pageRange": {
+        "start": 91,
+        "end": 110
+      },
+      "scenes": [
+        91,
+        97,
+        103,
+        108
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-058": {
+      "pageRange": {
+        "start": 111,
+        "end": 132
+      },
+      "scenes": [
+        111,
+        118,
+        124,
+        128
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-059": {
+      "pageRange": {
+        "start": 133,
+        "end": 152
+      },
+      "scenes": [
+        133,
+        139,
+        145,
+        150
+      ],
+      "characters": {
+        "char-0f2e6e85bf": [
+          138
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-060": {
+      "pageRange": {
+        "start": 153,
+        "end": 172
+      },
+      "scenes": [
+        153,
+        159,
+        165,
+        170
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-2ac2471b12": [
+          170
+        ]
+      },
+      "terms": {}
+    },
+    "ch-061": {
+      "pageRange": {
+        "start": 173,
+        "end": 191
+      },
+      "scenes": [
+        173,
+        179,
+        184,
+        189
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-062": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-063": {
+      "pageRange": {
+        "start": 27,
+        "end": 48
+      },
+      "scenes": [
+        27,
+        34,
+        40,
+        45
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-064": {
+      "pageRange": {
+        "start": 49,
+        "end": 68
+      },
+      "scenes": [
+        49,
+        55,
+        61,
+        66
+      ],
+      "characters": {
+        "char-3c1852867d": [
+          68
+        ],
+        "char-9469499a06": [
+          55
+        ],
+        "char-baadf43d19": [
+          61,
+          68
+        ],
+        "char-5a0f7ded8d": [
+          68
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-065": {
+      "pageRange": {
+        "start": 69,
+        "end": 90
+      },
+      "scenes": [
+        69,
+        76,
+        82,
+        87
+      ],
+      "characters": {
+        "char-17322e71e5": [
+          75
+        ],
+        "char-d4a4bc45c6": [
+          80
+        ],
+        "char-3de3b8af11": [
+          75
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-3f92b6bb78": [
+          75
+        ]
+      }
+    },
+    "ch-066": {
+      "pageRange": {
+        "start": 91,
+        "end": 110
+      },
+      "scenes": [
+        91,
+        97,
+        103,
+        108
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-067": {
+      "pageRange": {
+        "start": 111,
+        "end": 130
+      },
+      "scenes": [
+        111,
+        117,
+        123,
+        128
+      ],
+      "characters": {
+        "char-63e2590b87": [
+          129
+        ],
+        "char-526551b91f": [
+          120
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-068": {
+      "pageRange": {
+        "start": 131,
+        "end": 150
+      },
+      "scenes": [
+        131,
+        137,
+        143,
+        148
+      ],
+      "characters": {
+        "char-526551b91f": [
+          150
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-069": {
+      "pageRange": {
+        "start": 151,
+        "end": 170
+      },
+      "scenes": [
+        151,
+        157,
+        163,
+        168
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-8b181ff845": [
+          170
+        ]
+      },
+      "terms": {}
+    },
+    "ch-070": {
+      "pageRange": {
+        "start": 171,
+        "end": 191
+      },
+      "scenes": [
+        171,
+        178,
+        183,
+        189
+      ],
+      "characters": {
+        "char-6309a7e2f4": [
+          181
+        ],
+        "char-b2b454d6e2": [
+          181
+        ],
+        "char-526551b91f": [
+          178
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-3f92b6bb78": [
+          181,
+          188
+        ]
+      }
+    },
+    "ch-071": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-phase4-inverted-spear": [
+          25
+        ]
+      },
+      "terms": {
+        "term-ed19637c63": [
+          25
+        ],
+        "term-bf1b3beaca": [
+          25
+        ]
+      }
+    },
+    "ch-072": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-073": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-074": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-phase4-star-religious-group": [
+          69
+        ]
+      }
+    },
+    "ch-075": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        99,
+        104
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-076": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-077": {
+      "pageRange": {
+        "start": 127,
+        "end": 148
+      },
+      "scenes": [
+        127,
+        134,
+        140,
+        145
+      ],
+      "characters": {
+        "char-b9d4880408": [
+          147
+        ]
+      },
+      "techniques": {
+        "tech-1bc0d9ec7b": [
+          147
+        ]
+      },
+      "terms": {
+        "term-8914e5bc1a": [
+          143,
+          147
+        ]
+      }
+    },
+    "ch-078": {
+      "pageRange": {
+        "start": 149,
+        "end": 168
+      },
+      "scenes": [
+        149,
+        155,
+        161,
+        166
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-079": {
+      "pageRange": {
+        "start": 169,
+        "end": 191
+      },
+      "scenes": [
+        169,
+        176,
+        183,
+        188
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-080": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-081": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-082": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-083": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {
+        "char-6309a7e2f4": [
+          68
+        ],
+        "char-17322e71e5": [
+          75
+        ],
+        "char-3c1852867d": [
+          68
+        ],
+        "char-07918bda3f": [
+          81
+        ],
+        "char-e41848a08f": [
+          81
+        ],
+        "char-53c5711b23": [
+          71,
+          72
+        ],
+        "char-cf2d32d5b9": [
+          68
+        ],
+        "char-baadf43d19": [
+          81
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-e3eff1da1c": [
+          68,
+          70
+        ]
+      }
+    },
+    "ch-084": {
+      "pageRange": {
+        "start": 87,
+        "end": 105
+      },
+      "scenes": [
+        87,
+        93,
+        98,
+        103
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-085": {
+      "pageRange": {
+        "start": 106,
+        "end": 128
+      },
+      "scenes": [
+        106,
+        113,
+        120,
+        125
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-086": {
+      "pageRange": {
+        "start": 129,
+        "end": 148
+      },
+      "scenes": [
+        129,
+        135,
+        141,
+        146
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-33c0eaca30": [
+          129
+        ]
+      }
+    },
+    "ch-087": {
+      "pageRange": {
+        "start": 149,
+        "end": 168
+      },
+      "scenes": [
+        149,
+        155,
+        161,
+        166
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-088": {
+      "pageRange": {
+        "start": 169,
+        "end": 191
+      },
+      "scenes": [
+        169,
+        176,
+        183,
+        188
+      ],
+      "characters": {
+        "char-17322e71e5": [
+          188
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-089": {
+      "pageRange": {
+        "start": 7,
+        "end": 28
+      },
+      "scenes": [
+        7,
+        14,
+        20,
+        25
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-phase5-transfigured-human": [
+          26
+        ],
+        "term-33c0eaca30": [
+          7
+        ]
+      }
+    },
+    "ch-090": {
+      "pageRange": {
+        "start": 29,
+        "end": 50
+      },
+      "scenes": [
+        29,
+        36,
+        42,
+        47
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-091": {
+      "pageRange": {
+        "start": 51,
+        "end": 70
+      },
+      "scenes": [
+        51,
+        57,
+        63,
+        68
+      ],
+      "characters": {
+        "char-17322e71e5": [
+          60
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-092": {
+      "pageRange": {
+        "start": 71,
+        "end": 90
+      },
+      "scenes": [
+        71,
+        77,
+        83,
+        88
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-093": {
+      "pageRange": {
+        "start": 91,
+        "end": 110
+      },
+      "scenes": [
+        91,
+        97,
+        103,
+        108
+      ],
+      "characters": {
+        "char-da4ca46be3": [
+          110
+        ],
+        "char-1a74b17cf8": [
+          110
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-33c0eaca30": [
+          91
+        ]
+      }
+    },
+    "ch-094": {
+      "pageRange": {
+        "start": 111,
+        "end": 130
+      },
+      "scenes": [
+        111,
+        117,
+        123,
+        128
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-095": {
+      "pageRange": {
+        "start": 131,
+        "end": 150
+      },
+      "scenes": [
+        131,
+        137,
+        143,
+        148
+      ],
+      "characters": {
+        "char-2615d69152": [
+          150
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-096": {
+      "pageRange": {
+        "start": 151,
+        "end": 170
+      },
+      "scenes": [
+        151,
+        157,
+        163,
+        168
+      ],
+      "characters": {
+        "char-17322e71e5": [
+          151
+        ],
+        "char-d31c75a751": [
+          170
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-33c0eaca30": [
+          151
+        ]
+      }
+    },
+    "ch-097": {
+      "pageRange": {
+        "start": 171,
+        "end": 191
+      },
+      "scenes": [
+        171,
+        178,
+        183,
+        189
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-33c0eaca30": [
+          189
+        ]
+      }
+    },
+    "ch-098": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {
+        "char-2615d69152": [
+          26
+        ],
+        "char-d5482ceba1": [
+          26
+        ]
+      },
+      "techniques": {
+        "tech-fbf15eb3e2": [
+          26
+        ]
+      },
+      "terms": {}
+    },
+    "ch-099": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-100": {
+      "pageRange": {
+        "start": 47,
+        "end": 68
+      },
+      "scenes": [
+        47,
+        53,
+        60,
+        65
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-101": {
+      "pageRange": {
+        "start": 69,
+        "end": 88
+      },
+      "scenes": [
+        69,
+        75,
+        81,
+        86
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-102": {
+      "pageRange": {
+        "start": 89,
+        "end": 110
+      },
+      "scenes": [
+        89,
+        96,
+        102,
+        107
+      ],
+      "characters": {
+        "char-92d504ce2f": [
+          110
+        ]
+      },
+      "techniques": {
+        "tech-e28246ff34": [
+          102
+        ]
+      },
+      "terms": {}
+    },
+    "ch-103": {
+      "pageRange": {
+        "start": 111,
+        "end": 130
+      },
+      "scenes": [
+        111,
+        117,
+        123,
+        128
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-252cb4a664": [
+          130
+        ]
+      }
+    },
+    "ch-104": {
+      "pageRange": {
+        "start": 131,
+        "end": 150
+      },
+      "scenes": [
+        131,
+        137,
+        143,
+        148
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-105": {
+      "pageRange": {
+        "start": 151,
+        "end": 170
+      },
+      "scenes": [
+        151,
+        157,
+        163,
+        168
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-a1213858c7": [
+          170
+        ]
+      },
+      "terms": {}
+    },
+    "ch-106": {
+      "pageRange": {
+        "start": 171,
+        "end": 191
+      },
+      "scenes": [
+        171,
+        178,
+        183,
+        189
+      ],
+      "characters": {
+        "char-24d736edff": [
+          179
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-107": {
+      "pageRange": {
+        "start": 7,
+        "end": 30
+      },
+      "scenes": [
+        7,
+        15,
+        21,
+        27
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-108": {
+      "pageRange": {
+        "start": 31,
+        "end": 50
+      },
+      "scenes": [
+        31,
+        37,
+        43,
+        48
+      ],
+      "characters": {
+        "char-24d736edff": [
+          50
+        ]
+      },
+      "techniques": {
+        "tech-phase6-playful-cloud": [
+          50
+        ]
+      },
+      "terms": {}
+    },
+    "ch-109": {
+      "pageRange": {
+        "start": 51,
+        "end": 70
+      },
+      "scenes": [
+        51,
+        57,
+        63,
+        68
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-110": {
+      "pageRange": {
+        "start": 71,
+        "end": 90
+      },
+      "scenes": [
+        71,
+        77,
+        83,
+        88
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-111": {
+      "pageRange": {
+        "start": 91,
+        "end": 112
+      },
+      "scenes": [
+        91,
+        98,
+        104,
+        109
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-112": {
+      "pageRange": {
+        "start": 113,
+        "end": 132
+      },
+      "scenes": [
+        113,
+        119,
+        125,
+        130
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-113": {
+      "pageRange": {
+        "start": 133,
+        "end": 152
+      },
+      "scenes": [
+        133,
+        139,
+        145,
+        150
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-114": {
+      "pageRange": {
+        "start": 153,
+        "end": 172
+      },
+      "scenes": [
+        153,
+        159,
+        165,
+        170
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-115": {
+      "pageRange": {
+        "start": 173,
+        "end": 191
+      },
+      "scenes": [
+        173,
+        179,
+        184,
+        189
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-116": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        12,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-117": {
+      "pageRange": {
+        "start": 27,
+        "end": 48
+      },
+      "scenes": [
+        27,
+        34,
+        40,
+        45
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-118": {
+      "pageRange": {
+        "start": 49,
+        "end": 68
+      },
+      "scenes": [
+        49,
+        55,
+        61,
+        66
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-119": {
+      "pageRange": {
+        "start": 69,
+        "end": 88
+      },
+      "scenes": [
+        69,
+        75,
+        81,
+        86
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-120": {
+      "pageRange": {
+        "start": 89,
+        "end": 108
+      },
+      "scenes": [
+        89,
+        95,
+        101,
+        106
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-121": {
+      "pageRange": {
+        "start": 109,
+        "end": 128
+      },
+      "scenes": [
+        109,
+        115,
+        121,
+        126
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-122": {
+      "pageRange": {
+        "start": 129,
+        "end": 148
+      },
+      "scenes": [
+        129,
+        135,
+        141,
+        146
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-123": {
+      "pageRange": {
+        "start": 149,
+        "end": 172
+      },
+      "scenes": [
+        149,
+        157,
+        163,
+        169
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-124": {
+      "pageRange": {
+        "start": 173,
+        "end": 193
+      },
+      "scenes": [
+        173,
+        180,
+        185,
+        191
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-125": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {
+        "char-daba6cb53e": [
+          23
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-126": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-127": {
+      "pageRange": {
+        "start": 47,
+        "end": 70
+      },
+      "scenes": [
+        47,
+        54,
+        61,
+        67
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-128": {
+      "pageRange": {
+        "start": 71,
+        "end": 90
+      },
+      "scenes": [
+        71,
+        77,
+        83,
+        88
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-69d5ecb511": [
+          82
+        ]
+      },
+      "terms": {
+        "term-69d5ecb511": [
+          82
+        ]
+      }
+    },
+    "ch-129": {
+      "pageRange": {
+        "start": 91,
+        "end": 110
+      },
+      "scenes": [
+        91,
+        97,
+        103,
+        108
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-130": {
+      "pageRange": {
+        "start": 111,
+        "end": 129
+      },
+      "scenes": [
+        111,
+        117,
+        122,
+        127
+      ],
+      "characters": {
+        "char-18d7c58412": [
+          112,
+          113
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-131": {
+      "pageRange": {
+        "start": 130,
+        "end": 152
+      },
+      "scenes": [
+        130,
+        137,
+        144,
+        148
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-132": {
+      "pageRange": {
+        "start": 153,
+        "end": 172
+      },
+      "scenes": [
+        153,
+        159,
+        165,
+        170
+      ],
+      "characters": {
+        "char-18d7c58412": [
+          172
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-133": {
+      "pageRange": {
+        "start": 173,
+        "end": 193
+      },
+      "scenes": [
+        173,
+        180,
+        185,
+        191
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-134": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-1bc0d9ec7b": [
+          26
+        ],
+        "tech-0ed3695b85": [
+          26
+        ]
+      },
+      "terms": {
+        "term-907c704f71": [
+          26
+        ]
+      }
+    },
+    "ch-135": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-136": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {
+        "char-0f2e6e85bf": [
+          56
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-137": {
+      "pageRange": {
+        "start": 67,
+        "end": 88
+      },
+      "scenes": [
+        67,
+        74,
+        80,
+        85
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-32f18a66ec": [
+          86
+        ]
+      }
+    },
+    "ch-138": {
+      "pageRange": {
+        "start": 89,
+        "end": 108
+      },
+      "scenes": [
+        89,
+        95,
+        101,
+        106
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-139": {
+      "pageRange": {
+        "start": 109,
+        "end": 128
+      },
+      "scenes": [
+        109,
+        115,
+        121,
+        126
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-140": {
+      "pageRange": {
+        "start": 129,
+        "end": 148
+      },
+      "scenes": [
+        129,
+        135,
+        141,
+        146
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-141": {
+      "pageRange": {
+        "start": 149,
+        "end": 168
+      },
+      "scenes": [
+        149,
+        155,
+        161,
+        166
+      ],
+      "characters": {
+        "char-fd5a754a56": [
+          161
+        ]
+      },
+      "techniques": {
+        "tech-fd5a754a56": [
+          161
+        ]
+      },
+      "terms": {}
+    },
+    "ch-142": {
+      "pageRange": {
+        "start": 169,
+        "end": 193
+      },
+      "scenes": [
+        169,
+        177,
+        184,
+        190
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-143": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-144": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        38,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-145": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-146": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-6d3234fdfd": [
+          74
+        ],
+        "term-bb89ef15f2": [
+          67,
+          74
+        ],
+        "term-79c25be05f": [
+          74
+        ]
+      }
+    },
+    "ch-147": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        99,
+        104
+      ],
+      "characters": {
+        "char-672d843799": [
+          87
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-148": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {
+        "char-e3d79a21e6": [
+          126
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-149": {
+      "pageRange": {
+        "start": 127,
+        "end": 146
+      },
+      "scenes": [
+        127,
+        133,
+        139,
+        144
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-8914e5bc1a": [
+          130
+        ]
+      }
+    },
+    "ch-150": {
+      "pageRange": {
+        "start": 147,
+        "end": 170
+      },
+      "scenes": [
+        147,
+        155,
+        161,
+        167
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-151": {
+      "pageRange": {
+        "start": 171,
+        "end": 190
+      },
+      "scenes": [
+        171,
+        177,
+        182,
+        188
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-152": {
+      "pageRange": {
+        "start": 191,
+        "end": 201
+      },
+      "scenes": [
+        191,
+        194,
+        197,
+        200
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-153": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-154": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-155": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-156": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-ad8bd57883": [
+          68
+        ]
+      }
+    },
+    "ch-157": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        99,
+        104
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-158": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-6d3234fdfd": [
+          123,
+          124
+        ],
+        "term-49963d44ff": [
+          116
+        ]
+      }
+    },
+    "ch-159": {
+      "pageRange": {
+        "start": 127,
+        "end": 146
+      },
+      "scenes": [
+        127,
+        133,
+        139,
+        144
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-160": {
+      "pageRange": {
+        "start": 147,
+        "end": 166
+      },
+      "scenes": [
+        147,
+        151,
+        159,
+        164
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-161": {
+      "pageRange": {
+        "start": 167,
+        "end": 193
+      },
+      "scenes": [
+        167,
+        176,
+        183,
+        190
+      ],
+      "characters": {
+        "char-3c1852867d": [
+          186
+        ],
+        "char-baadf43d19": [
+          188
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-162": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {
+        "char-3c1852867d": [
+          26
+        ],
+        "char-baadf43d19": [
+          26
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-163": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-164": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        63
+      ],
+      "characters": {
+        "char-baadf43d19": [
+          51
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-165": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {
+        "char-baadf43d19": [
+          83
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-152790e31d": [
+          67
+        ]
+      }
+    },
+    "ch-166": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        92,
+        99,
+        104
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-167": {
+      "pageRange": {
+        "start": 107,
+        "end": 125
+      },
+      "scenes": [
+        107,
+        113,
+        118,
+        123
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-168": {
+      "pageRange": {
+        "start": 126,
+        "end": 148
+      },
+      "scenes": [
+        126,
+        133,
+        140,
+        145
+      ],
+      "characters": {
+        "char-026d657efa": [
+          135
+        ],
+        "char-27f5cf78ab": [
+          130
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-6d3234fdfd": [
+          130,
+          135
+        ],
+        "term-152790e31d": [
+          126
+        ]
+      }
+    },
+    "ch-169": {
+      "pageRange": {
+        "start": 149,
+        "end": 168
+      },
+      "scenes": [
+        149,
+        154,
+        161,
+        166
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-152790e31d": [
+          149
+        ]
+      }
+    },
+    "ch-170": {
+      "pageRange": {
+        "start": 169,
+        "end": 188
+      },
+      "scenes": [
+        169,
+        175,
+        181,
+        186
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-152790e31d": [
+          169
+        ]
+      }
+    },
+    "ch-171": {
+      "pageRange": {
+        "start": 189,
+        "end": 209
+      },
+      "scenes": [
+        189,
+        196,
+        201,
+        207
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-152790e31d": [
+          189
+        ]
+      }
+    },
+    "ch-172": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-173": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-174": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        52,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-fd5a754a56": [
+          56
+        ]
+      },
+      "terms": {}
+    },
+    "ch-175": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-176": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        99,
+        104
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-3efd4cb8d8": [
+          87
+        ]
+      }
+    },
+    "ch-177": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-3efd4cb8d8": [
+          107
+        ]
+      }
+    },
+    "ch-178": {
+      "pageRange": {
+        "start": 127,
+        "end": 146
+      },
+      "scenes": [
+        127,
+        133,
+        139,
+        144
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-3efd4cb8d8": [
+          127
+        ]
+      }
+    },
+    "ch-179": {
+      "pageRange": {
+        "start": 147,
+        "end": 166
+      },
+      "scenes": [
+        147,
+        153,
+        159,
+        164
+      ],
+      "characters": {
+        "char-fd5a754a56": [
+          149
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-3efd4cb8d8": [
+          147
+        ]
+      }
+    },
+    "ch-180": {
+      "pageRange": {
+        "start": 167,
+        "end": 193
+      },
+      "scenes": [
+        167,
+        176,
+        183,
+        190
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-3efd4cb8d8": [
+          167,
+          185
+        ]
+      }
+    },
+    "ch-181": {
+      "pageRange": {
+        "start": 7,
+        "end": 30
+      },
+      "scenes": [
+        7,
+        15,
+        21,
+        27
+      ],
+      "characters": {
+        "char-4e5593708e": [
+          21
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-5c353791e3": [
+          7,
+          8
+        ]
+      }
+    },
+    "ch-182": {
+      "pageRange": {
+        "start": 31,
+        "end": 50
+      },
+      "scenes": [
+        31,
+        37,
+        43,
+        48
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-5c353791e3": [
+          31
+        ]
+      }
+    },
+    "ch-183": {
+      "pageRange": {
+        "start": 51,
+        "end": 70
+      },
+      "scenes": [
+        51,
+        57,
+        63,
+        68
+      ],
+      "characters": {
+        "char-9bdffe1087": [
+          51,
+          56
+        ],
+        "char-207d1e2959": [
+          51
+        ],
+        "char-a6a1c5d1be": [
+          51
+        ],
+        "char-0fd233938d": [
+          53
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-184": {
+      "pageRange": {
+        "start": 71,
+        "end": 90
+      },
+      "scenes": [
+        71,
+        77,
+        83,
+        88
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-5c353791e3": [
+          71
+        ]
+      }
+    },
+    "ch-185": {
+      "pageRange": {
+        "start": 91,
+        "end": 110
+      },
+      "scenes": [
+        91,
+        97,
+        103,
+        108
+      ],
+      "characters": {
+        "char-672d843799": [
+          110
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-186": {
+      "pageRange": {
+        "start": 111,
+        "end": 130
+      },
+      "scenes": [
+        111,
+        117,
+        123,
+        128
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-187": {
+      "pageRange": {
+        "start": 131,
+        "end": 150
+      },
+      "scenes": [
+        131,
+        137,
+        143,
+        148
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-5c353791e3": [
+          131,
+          133
+        ]
+      }
+    },
+    "ch-188": {
+      "pageRange": {
+        "start": 151,
+        "end": 170
+      },
+      "scenes": [
+        151,
+        157,
+        163,
+        168
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-5c353791e3": [
+          151
+        ]
+      }
+    },
+    "ch-189": {
+      "pageRange": {
+        "start": 171,
+        "end": 190
+      },
+      "scenes": [
+        171,
+        177,
+        183,
+        188
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-5c353791e3": [
+          171
+        ]
+      }
+    },
+    "ch-190": {
+      "pageRange": {
+        "start": 191,
+        "end": 217
+      },
+      "scenes": [
+        191,
+        200,
+        207,
+        213
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-191": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        20,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-c2f186c626": [
+          7
+        ]
+      }
+    },
+    "ch-192": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-193": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-194": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {
+        "char-24d736edff": [
+          71,
+          75
+        ]
+      },
+      "techniques": {},
+      "terms": {
+        "term-c2f186c626": [
+          67
+        ]
+      }
+    },
+    "ch-195": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        99,
+        104
+      ],
+      "characters": {
+        "char-69335b05c3": [
+          89
+        ],
+        "char-aabfd74fce": [
+          87
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-196": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-197": {
+      "pageRange": {
+        "start": 127,
+        "end": 146
+      },
+      "scenes": [
+        127,
+        133,
+        139,
+        144
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-198": {
+      "pageRange": {
+        "start": 147,
+        "end": 166
+      },
+      "scenes": [
+        147,
+        153,
+        159,
+        164
+      ],
+      "characters": {
+        "char-24d736edff": [
+          163
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-199": {
+      "pageRange": {
+        "start": 167,
+        "end": 193
+      },
+      "scenes": [
+        167,
+        176,
+        183,
+        190
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-c2f186c626": [
+          185
+        ]
+      }
+    },
+    "ch-200": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {
+        "char-b7f2a3f42f": [
+          20
+        ],
+        "char-2b8d365a39": [
+          9
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-201": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {
+        "char-e853296f46": [
+          31
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-202": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-58cf854ee7": [
+          55
+        ]
+      }
+    },
+    "ch-203": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-204": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        99,
+        104
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-205": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-206": {
+      "pageRange": {
+        "start": 127,
+        "end": 146
+      },
+      "scenes": [
+        127,
+        133,
+        139,
+        144
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-207": {
+      "pageRange": {
+        "start": 147,
+        "end": 166
+      },
+      "scenes": [
+        147,
+        153,
+        159,
+        164
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-208": {
+      "pageRange": {
+        "start": 167,
+        "end": 193
+      },
+      "scenes": [
+        167,
+        176,
+        183,
+        190
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-209": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-210": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-211": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-bb89ef15f2": [
+          52
+        ]
+      }
+    },
+    "ch-212": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-3f0111dca8": [
+          72
+        ]
+      }
+    },
+    "ch-213": {
+      "pageRange": {
+        "start": 87,
+        "end": 110
+      },
+      "scenes": [
+        87,
+        95,
+        101,
+        107
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-214": {
+      "pageRange": {
+        "start": 111,
+        "end": 129
+      },
+      "scenes": [
+        111,
+        117,
+        122,
+        126
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-215": {
+      "pageRange": {
+        "start": 130,
+        "end": 152
+      },
+      "scenes": [
+        130,
+        137,
+        144,
+        149
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-216": {
+      "pageRange": {
+        "start": 153,
+        "end": 172
+      },
+      "scenes": [
+        153,
+        159,
+        165,
+        170
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-217": {
+      "pageRange": {
+        "start": 173,
+        "end": 193
+      },
+      "scenes": [
+        173,
+        180,
+        185,
+        191
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-218": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-219": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-220": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-221": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {
+        "term-f9dde75323": [
+          74
+        ]
+      }
+    },
+    "ch-222": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        99,
+        104
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-223": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-224": {
+      "pageRange": {
+        "start": 127,
+        "end": 146
+      },
+      "scenes": [
+        127,
+        132,
+        139,
+        144
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-225": {
+      "pageRange": {
+        "start": 147,
+        "end": 166
+      },
+      "scenes": [
+        147,
+        153,
+        159,
+        164
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-226": {
+      "pageRange": {
+        "start": 167,
+        "end": 185
+      },
+      "scenes": [
+        167,
+        172,
+        177,
+        183
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-227": {
+      "pageRange": {
+        "start": 186,
+        "end": 209
+      },
+      "scenes": [
+        186,
+        194,
+        200,
+        206
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-228": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-229": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        34,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-230": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-231": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-232": {
+      "pageRange": {
+        "start": 87,
+        "end": 106
+      },
+      "scenes": [
+        87,
+        93,
+        98,
+        104
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-233": {
+      "pageRange": {
+        "start": 107,
+        "end": 126
+      },
+      "scenes": [
+        107,
+        113,
+        119,
+        124
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-234": {
+      "pageRange": {
+        "start": 127,
+        "end": 146
+      },
+      "scenes": [
+        127,
+        133,
+        139,
+        144
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-235": {
+      "pageRange": {
+        "start": 147,
+        "end": 166
+      },
+      "scenes": [
+        147,
+        153,
+        159,
+        164
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-236": {
+      "pageRange": {
+        "start": 167,
+        "end": 193
+      },
+      "scenes": [
+        167,
+        176,
+        183,
+        189
+      ],
+      "characters": {
+        "char-2b8d365a39": [
+          187
+        ],
+        "char-c28763b98a": [
+          186
+        ],
+        "char-d5482ceba1": [
+          187
+        ],
+        "char-9fccad3ed6": [
+          189
+        ],
+        "char-b9d4880408": [
+          186
+        ],
+        "char-b2b454d6e2": [
+          188
+        ],
+        "char-24d736edff": [
+          186
+        ],
+        "char-0e7004da56": [
+          187
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-237": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-238": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        40,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-239": {
+      "pageRange": {
+        "start": 47,
+        "end": 65
+      },
+      "scenes": [
+        47,
+        53,
+        58,
+        63
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-240": {
+      "pageRange": {
+        "start": 66,
+        "end": 88
+      },
+      "scenes": [
+        66,
+        73,
+        80,
+        85
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-241": {
+      "pageRange": {
+        "start": 89,
+        "end": 108
+      },
+      "scenes": [
+        89,
+        95,
+        101,
+        106
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-242": {
+      "pageRange": {
+        "start": 109,
+        "end": 128
+      },
+      "scenes": [
+        109,
+        115,
+        121,
+        126
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-243": {
+      "pageRange": {
+        "start": 129,
+        "end": 148
+      },
+      "scenes": [
+        129,
+        135,
+        141,
+        146
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-244": {
+      "pageRange": {
+        "start": 149,
+        "end": 168
+      },
+      "scenes": [
+        149,
+        155,
+        161,
+        166
+      ],
+      "characters": {
+        "char-baadf43d19": [
+          166
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-245": {
+      "pageRange": {
+        "start": 169,
+        "end": 193
+      },
+      "scenes": [
+        169,
+        177,
+        184,
+        190
+      ],
+      "characters": {
+        "char-baadf43d19": [
+          179
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-246": {
+      "pageRange": {
+        "start": 8,
+        "end": 30
+      },
+      "scenes": [
+        8,
+        15,
+        22,
+        27
+      ],
+      "characters": {
+        "char-2b8d365a39": [
+          30
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-247": {
+      "pageRange": {
+        "start": 31,
+        "end": 50
+      },
+      "scenes": [
+        31,
+        36,
+        43,
+        48
+      ],
+      "characters": {
+        "char-2b8d365a39": [
+          50
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-248": {
+      "pageRange": {
+        "start": 51,
+        "end": 70
+      },
+      "scenes": [
+        51,
+        57,
+        63,
+        68
+      ],
+      "characters": {
+        "char-678a848346": [
+          70
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-249": {
+      "pageRange": {
+        "start": 71,
+        "end": 90
+      },
+      "scenes": [
+        71,
+        77,
+        83,
+        88
+      ],
+      "characters": {
+        "char-fd5a754a56": [
+          71
+        ],
+        "char-2b8d365a39": [
+          90
+        ]
+      },
+      "techniques": {
+        "tech-fd5a754a56": [
+          71
+        ]
+      },
+      "terms": {}
+    },
+    "ch-250": {
+      "pageRange": {
+        "start": 91,
+        "end": 110
+      },
+      "scenes": [
+        91,
+        97,
+        102,
+        107
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-251": {
+      "pageRange": {
+        "start": 111,
+        "end": 129
+      },
+      "scenes": [
+        111,
+        117,
+        121,
+        127
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-252": {
+      "pageRange": {
+        "start": 130,
+        "end": 152
+      },
+      "scenes": [
+        130,
+        137,
+        143,
+        149
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-253": {
+      "pageRange": {
+        "start": 153,
+        "end": 172
+      },
+      "scenes": [
+        153,
+        159,
+        165,
+        170
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-254": {
+      "pageRange": {
+        "start": 173,
+        "end": 201
+      },
+      "scenes": [
+        173,
+        182,
+        190,
+        198
+      ],
+      "characters": {
+        "char-6d1d442a9a": [
+          194
+        ],
+        "char-6309a7e2f4": [
+          192,
+          195
+        ],
+        "char-2b8d365a39": [
+          192
+        ],
+        "char-17322e71e5": [
+          192
+        ],
+        "char-53c5711b23": [
+          193
+        ],
+        "char-24d736edff": [
+          193,
+          195
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-255": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {
+        "char-2b8d365a39": [
+          8
+        ]
+      },
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-256": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {
+        "tech-69d5ecb511": [
+          33
+        ]
+      },
+      "terms": {}
+    },
+    "ch-257": {
+      "pageRange": {
+        "start": 47,
+        "end": 66
+      },
+      "scenes": [
+        47,
+        53,
+        59,
+        64
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-258": {
+      "pageRange": {
+        "start": 67,
+        "end": 86
+      },
+      "scenes": [
+        67,
+        73,
+        79,
+        84
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-259": {
+      "pageRange": {
+        "start": 87,
+        "end": 110
+      },
+      "scenes": [
+        87,
+        95,
+        101,
+        107
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-260": {
+      "pageRange": {
+        "start": 111,
+        "end": 130
+      },
+      "scenes": [
+        111,
+        117,
+        123,
+        128
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-261": {
+      "pageRange": {
+        "start": 131,
+        "end": 149
+      },
+      "scenes": [
+        131,
+        137,
+        142,
+        147
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-262": {
+      "pageRange": {
+        "start": 150,
+        "end": 172
+      },
+      "scenes": [
+        150,
+        157,
+        164,
+        169
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-263": {
+      "pageRange": {
+        "start": 173,
+        "end": 193
+      },
+      "scenes": [
+        173,
+        179,
+        185,
+        191
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-264": {
+      "pageRange": {
+        "start": 7,
+        "end": 26
+      },
+      "scenes": [
+        7,
+        13,
+        19,
+        24
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-265": {
+      "pageRange": {
+        "start": 27,
+        "end": 46
+      },
+      "scenes": [
+        27,
+        33,
+        39,
+        44
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-266": {
+      "pageRange": {
+        "start": 47,
+        "end": 65
+      },
+      "scenes": [
+        47,
+        53,
+        58,
+        63
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-267": {
+      "pageRange": {
+        "start": 66,
+        "end": 88
+      },
+      "scenes": [
+        66,
+        73,
+        80,
+        85
+      ],
+      "characters": {
+        "char-fd5a754a56": [
+          69
+        ]
+      },
+      "techniques": {
+        "tech-ae26dbd914": [
+          69
+        ]
+      },
+      "terms": {}
+    },
+    "ch-268": {
+      "pageRange": {
+        "start": 89,
+        "end": 108
+      },
+      "scenes": [
+        89,
+        95,
+        101,
+        106
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-269": {
+      "pageRange": {
+        "start": 109,
+        "end": 128
+      },
+      "scenes": [
+        109,
+        115,
+        121,
+        126
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-270": {
+      "pageRange": {
+        "start": 129,
+        "end": 147
+      },
+      "scenes": [
+        129,
+        135,
+        140,
+        145
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    },
+    "ch-271": {
+      "pageRange": {
+        "start": 148,
+        "end": 169
+      },
+      "scenes": [
+        148,
+        155,
+        162,
+        169
+      ],
+      "characters": {},
+      "techniques": {},
+      "terms": {}
+    }
+  }
+}

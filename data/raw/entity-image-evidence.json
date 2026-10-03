@@ -1,0 +1,4536 @@
+{
+  "generatedFrom": "page-index.json",
+  "method": "OCR label match inside the entity's manga chapters; no unrelated-page fallback",
+  "techniques": {
+    "tech-3ffbd11089": [
+      {
+        "chapterId": "ch-223",
+        "volume": 25,
+        "page": 118,
+        "src": "/media/pages/25/25-118.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-42c5acf52c": [
+      {
+        "chapterId": "ch-182",
+        "volume": 21,
+        "page": 31,
+        "src": "/media/pages/21/21-031.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-a88b067dfe": [
+      {
+        "chapterId": "ch-096",
+        "volume": 11,
+        "page": 167,
+        "src": "/media/pages/11/11-167.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-536c06630d": [
+      {
+        "chapterId": "ch-176",
+        "volume": 20,
+        "page": 96,
+        "src": "/media/pages/20/20-096.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase3-gorilla-mode": [
+      {
+        "chapterId": "ch-038",
+        "volume": 5,
+        "page": 87,
+        "src": "/media/pages/05/05-087.webp",
+        "score": 1125,
+        "matchKind": "exact-label",
+        "matchedText": "ゴリラモド",
+        "similarity": 1
+      }
+    ],
+    "tech-phase6-evening-moon": [
+      {
+        "chapterId": "ch-035",
+        "volume": 5,
+        "page": 14,
+        "src": "/media/pages/05/05-014.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-ef294e92de": [
+      {
+        "chapterId": "ch-159",
+        "volume": 18,
+        "page": 138,
+        "src": "/media/pages/18/18-138.webp",
+        "score": 401,
+        "matchKind": "context-text",
+        "matchedText": "裁判・判決",
+        "similarity": null
+      }
+    ],
+    "tech-2686f31bc1": [
+      {
+        "chapterId": "ch-250",
+        "volume": 28,
+        "page": 93,
+        "src": "/media/pages/28/28-093.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-8f302c25a5": [
+      {
+        "chapterId": "ch-208",
+        "volume": 23,
+        "page": 181,
+        "src": "/media/pages/23/23-181.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-fd5a754a56": [
+      {
+        "chapterId": "ch-141",
+        "volume": 16,
+        "page": 161,
+        "src": "/media/pages/16/16-161.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "リカ",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-174",
+        "volume": 20,
+        "page": 56,
+        "src": "/media/pages/20/20-056.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "リカ",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-249",
+        "volume": 28,
+        "page": 71,
+        "src": "/media/pages/28/28-071.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "リカ",
+        "similarity": 1
+      }
+    ],
+    "tech-phase6-nanami-blunt-sword": [
+      {
+        "chapterId": "ch-120",
+        "volume": 14,
+        "page": 104,
+        "src": "/media/pages/14/14-104.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase4-chain-thousand-miles": [
+      {
+        "chapterId": "ch-075",
+        "volume": 9,
+        "page": 91,
+        "src": "/media/pages/09/09-091.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-a83926de11": [
+      {
+        "chapterId": "ch-219",
+        "volume": 25,
+        "page": 38,
+        "src": "/media/pages/25/25-038.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-3ed1d78924": [
+      {
+        "chapterId": "ch-017",
+        "volume": 3,
+        "page": 16,
+        "src": "/media/pages/03/03-016.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-4688b07b42": [
+      {
+        "chapterId": "ch-050",
+        "volume": 6,
+        "page": 139,
+        "src": "/media/pages/06/06-139.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-d845dd244c": [
+      {
+        "chapterId": "ch-260",
+        "volume": 29,
+        "page": 111,
+        "src": "/media/pages/29/29-111.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-ab33983457": [
+      {
+        "chapterId": "ch-236",
+        "volume": 26,
+        "page": 184,
+        "src": "/media/pages/26/26-184.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase5-miracle-cannon": [
+      {
+        "chapterId": "ch-080",
+        "volume": 10,
+        "page": 23,
+        "src": "/media/pages/10/10-023.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase3-tsukumoso": [
+      {
+        "chapterId": "ch-040",
+        "volume": 5,
+        "page": 126,
+        "src": "/media/pages/05/05-126.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-af5ae87255": [
+      {
+        "chapterId": "ch-119",
+        "volume": 14,
+        "page": 71,
+        "src": "/media/pages/14/14-071.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      },
+      {
+        "chapterId": "ch-008",
+        "volume": 2,
+        "page": 19,
+        "src": "/media/pages/02/02-019.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-3a1afe6fc8": [
+      {
+        "chapterId": "ch-051",
+        "volume": 6,
+        "page": 151,
+        "src": "/media/pages/06/06-151.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "供花",
+        "similarity": 1
+      }
+    ],
+    "tech-870eff819a": [
+      {
+        "chapterId": "ch-038",
+        "volume": 5,
+        "page": 83,
+        "src": "/media/pages/05/05-083.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-9761156f3b": [
+      {
+        "chapterId": "ch-118",
+        "volume": 14,
+        "page": 65,
+        "src": "/media/pages/14/14-065.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-1baac5a3fc": [
+      {
+        "chapterId": "ch-071",
+        "volume": 9,
+        "page": 7,
+        "src": "/media/pages/09/09-007.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-214d93f273": [
+      {
+        "chapterId": "ch-260",
+        "volume": 29,
+        "page": 111,
+        "src": "/media/pages/29/29-111.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-d9180946ec": [
+      {
+        "chapterId": "ch-061",
+        "volume": 7,
+        "page": 176,
+        "src": "/media/pages/07/07-176.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-05a7ab0dcd": [
+      {
+        "chapterId": "ch-218",
+        "volume": 25,
+        "page": 14,
+        "src": "/media/pages/25/25-014.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-4b7f0d29f5": [
+      {
+        "chapterId": "ch-168",
+        "volume": 19,
+        "page": 140,
+        "src": "/media/pages/19/19-140.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-e1903ce05c": [
+      {
+        "chapterId": "ch-166",
+        "volume": 19,
+        "page": 89,
+        "src": "/media/pages/19/19-089.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-a34bfbb398": [
+      {
+        "chapterId": "ch-205",
+        "volume": 23,
+        "page": 111,
+        "src": "/media/pages/23/23-111.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase4-clone-unnamed": [
+      {
+        "chapterId": "ch-068",
+        "volume": 8,
+        "page": 136,
+        "src": "/media/pages/08/08-136.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-e69f8fd37d": [
+      {
+        "chapterId": "ch-022",
+        "volume": 3,
+        "page": 114,
+        "src": "/media/pages/03/03-114.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-7c3237f986": [
+      {
+        "chapterId": "ch-001",
+        "volume": 1,
+        "page": 38,
+        "src": "/media/pages/01/01-038.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase7-manji-kick": [
+      {
+        "chapterId": "ch-121",
+        "volume": 14,
+        "page": 125,
+        "src": "/media/pages/14/14-125.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-6dcae0cbae": [
+      {
+        "chapterId": "ch-223",
+        "volume": 25,
+        "page": 117,
+        "src": "/media/pages/25/25-117.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-cf5d1ac726": [
+      {
+        "chapterId": "ch-074",
+        "volume": 9,
+        "page": 77,
+        "src": "/media/pages/09/09-077.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-d3451c7bbb": [
+      {
+        "chapterId": "ch-204",
+        "volume": 23,
+        "page": 98,
+        "src": "/media/pages/23/23-098.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase7-arata-injury-stasis": [
+      {
+        "chapterId": "ch-126",
+        "volume": 15,
+        "page": 39,
+        "src": "/media/pages/15/15-039.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase8-hakari-door": [
+      {
+        "chapterId": "ch-155",
+        "volume": 18,
+        "page": 56,
+        "src": "/media/pages/18/18-056.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase7-uiui-spatial-transfer": [
+      {
+        "chapterId": "ch-133",
+        "volume": 15,
+        "page": 189,
+        "src": "/media/pages/15/15-189.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-domain-uro-unnamed": [
+      {
+        "chapterId": "ch-179",
+        "volume": 20,
+        "page": 147,
+        "src": "/media/pages/20/20-147.webp",
+        "score": 261,
+        "matchKind": "context-text",
+        "matchedText": "仙台結界",
+        "similarity": null
+      }
+    ],
+    "tech-phase6-smallpox-domain": [
+      {
+        "chapterId": "ch-101",
+        "volume": 12,
+        "page": 74,
+        "src": "/media/pages/12/12-074.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-domain-ishigori-unnamed": [
+      {
+        "chapterId": "ch-179",
+        "volume": 20,
+        "page": 147,
+        "src": "/media/pages/20/20-147.webp",
+        "score": 261,
+        "matchKind": "context-text",
+        "matchedText": "仙台結界",
+        "similarity": null
+      }
+    ],
+    "tech-07d7ee8f6e": [
+      {
+        "chapterId": "ch-047",
+        "volume": 6,
+        "page": 73,
+        "src": "/media/pages/06/06-073.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-f3ecd34833": [
+      {
+        "chapterId": "ch-177",
+        "volume": 20,
+        "page": 115,
+        "src": "/media/pages/20/20-115.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-5607df824a": [
+      {
+        "chapterId": "ch-177",
+        "volume": 20,
+        "page": 115,
+        "src": "/media/pages/20/20-115.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-deb6545546": [
+      {
+        "chapterId": "zero-02",
+        "volume": 0,
+        "page": 80,
+        "src": "/media/pages/00/00-080.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "呪言",
+        "similarity": 1
+      }
+    ],
+    "tech-1bc0d9ec7b": [
+      {
+        "chapterId": "ch-077",
+        "volume": 9,
+        "page": 147,
+        "src": "/media/pages/09/09-147.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "呪霊操術",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-134",
+        "volume": 16,
+        "page": 26,
+        "src": "/media/pages/16/16-026.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "呪霊操術",
+        "similarity": 1
+      }
+    ],
+    "tech-phase5-commissioned-curtain": [
+      {
+        "chapterId": "ch-083",
+        "volume": 10,
+        "page": 67,
+        "src": "/media/pages/10/10-067.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-39d2b30b48": [
+      {
+        "chapterId": "ch-182",
+        "volume": 21,
+        "page": 49,
+        "src": "/media/pages/21/21-049.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-955be682d2": [
+      {
+        "chapterId": "ch-183",
+        "volume": 21,
+        "page": 52,
+        "src": "/media/pages/21/21-052.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-f81d55ad09": [
+      {
+        "chapterId": "ch-121",
+        "volume": 14,
+        "page": 112,
+        "src": "/media/pages/14/14-112.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase5-polymorphic-soul-isomer": [
+      {
+        "chapterId": "ch-089",
+        "volume": 11,
+        "page": 26,
+        "src": "/media/pages/11/11-026.webp",
+        "score": 305,
+        "matchKind": "context-text",
+        "matchedText": "改造人間",
+        "similarity": null
+      }
+    ],
+    "tech-phase5-ultra-cannon": [
+      {
+        "chapterId": "ch-080",
+        "volume": 10,
+        "page": 19,
+        "src": "/media/pages/10/10-019.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-2abcf48f04": [
+      {
+        "chapterId": "ch-009",
+        "volume": 2,
+        "page": 37,
+        "src": "/media/pages/02/02-037.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase4-inverted-spear": [
+      {
+        "chapterId": "ch-071",
+        "volume": 9,
+        "page": 25,
+        "src": "/media/pages/09/09-025.webp",
+        "score": 1075,
+        "matchKind": "exact-label",
+        "matchedText": "天逆鉾",
+        "similarity": 1
+      }
+    ],
+    "tech-0ec3138e2c": [
+      {
+        "chapterId": "ch-100",
+        "volume": 12,
+        "page": 56,
+        "src": "/media/pages/12/12-056.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-582460898c": [
+      {
+        "chapterId": "ch-177",
+        "volume": 20,
+        "page": 119,
+        "src": "/media/pages/20/20-119.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-5fff07b019": [
+      {
+        "chapterId": "ch-178",
+        "volume": 20,
+        "page": 128,
+        "src": "/media/pages/20/20-128.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-492818427b": [
+      {
+        "chapterId": "ch-006",
+        "volume": 1,
+        "page": 165,
+        "src": "/media/pages/01/01-165.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-1cd41afe2a": [
+      {
+        "chapterId": "ch-058",
+        "volume": 7,
+        "page": 124,
+        "src": "/media/pages/07/07-124.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-7279b3b06c": [
+      {
+        "chapterId": "ch-233",
+        "volume": 26,
+        "page": 119,
+        "src": "/media/pages/26/26-119.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-da5c953a34": [
+      {
+        "chapterId": "ch-190",
+        "volume": 21,
+        "page": 209,
+        "src": "/media/pages/21/21-209.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-d35d193e62": [
+      {
+        "chapterId": "ch-237",
+        "volume": 27,
+        "page": 18,
+        "src": "/media/pages/27/27-018.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-a0a8d9c6ff": [
+      {
+        "chapterId": "ch-129",
+        "volume": 15,
+        "page": 95,
+        "src": "/media/pages/15/15-095.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-4298e6aa9b": [
+      {
+        "chapterId": "ch-250",
+        "volume": 28,
+        "page": 93,
+        "src": "/media/pages/28/28-093.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-1e8e6dda24": [
+      {
+        "chapterId": "ch-171",
+        "volume": 19,
+        "page": 191,
+        "src": "/media/pages/19/19-191.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-ae26dbd914": [
+      {
+        "chapterId": "ch-267",
+        "volume": 30,
+        "page": 69,
+        "src": "/media/pages/30/30-069.webp",
+        "score": 1075,
+        "matchKind": "exact-label",
+        "matchedText": "御厨子",
+        "similarity": 1
+      }
+    ],
+    "tech-4b6127d8a9": [
+      {
+        "chapterId": "ch-255",
+        "volume": 29,
+        "page": 16,
+        "src": "/media/pages/29/29-016.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-cc23098baa": [
+      {
+        "chapterId": "ch-140",
+        "volume": 16,
+        "page": 141,
+        "src": "/media/pages/16/16-141.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-7f37ba28b4": [
+      {
+        "chapterId": "ch-119",
+        "volume": 14,
+        "page": 69,
+        "src": "/media/pages/14/14-069.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-73135cb5c7": [
+      {
+        "chapterId": "ch-121",
+        "volume": 14,
+        "page": 112,
+        "src": "/media/pages/14/14-112.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-a35b2bcd34": [
+      {
+        "chapterId": "ch-089",
+        "volume": 11,
+        "page": 26,
+        "src": "/media/pages/11/11-026.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "改造人間",
+        "similarity": 1
+      }
+    ],
+    "tech-2374b0f892": [
+      {
+        "chapterId": "ch-205",
+        "volume": 23,
+        "page": 118,
+        "src": "/media/pages/23/23-118.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-f030266d16": [
+      {
+        "chapterId": "ch-154",
+        "volume": 18,
+        "page": 39,
+        "src": "/media/pages/18/18-039.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-1e8b90a741": [
+      {
+        "chapterId": "ch-198",
+        "volume": 22,
+        "page": 147,
+        "src": "/media/pages/22/22-147.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-ba7bef139c": [
+      {
+        "chapterId": "ch-051",
+        "volume": 6,
+        "page": 170,
+        "src": "/media/pages/06/06-170.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-c8154fa79f": [
+      {
+        "chapterId": "ch-061",
+        "volume": 7,
+        "page": 177,
+        "src": "/media/pages/07/07-177.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-146ed91574": [
+      {
+        "chapterId": "ch-095",
+        "volume": 11,
+        "page": 133,
+        "src": "/media/pages/11/11-133.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-9754429d12": [
+      {
+        "chapterId": "ch-049",
+        "volume": 6,
+        "page": 123,
+        "src": "/media/pages/06/06-123.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-0ed3695b85": [
+      {
+        "chapterId": "ch-134",
+        "volume": 16,
+        "page": 26,
+        "src": "/media/pages/16/16-026.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "うずまき",
+        "similarity": 1
+      }
+    ],
+    "tech-bbdf7b1f2f": [
+      {
+        "chapterId": "ch-115",
+        "volume": 13,
+        "page": 184,
+        "src": "/media/pages/13/13-184.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-76bee748ec": [
+      {
+        "chapterId": "ch-223",
+        "volume": 25,
+        "page": 110,
+        "src": "/media/pages/25/25-110.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-59d1d0e465": [
+      {
+        "chapterId": "ch-042",
+        "volume": 5,
+        "page": 162,
+        "src": "/media/pages/05/05-162.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-9fc56bc1ca": [
+      {
+        "chapterId": "ch-178",
+        "volume": 20,
+        "page": 140,
+        "src": "/media/pages/20/20-140.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-dc54ab0cd7": [
+      {
+        "chapterId": "ch-108",
+        "volume": 13,
+        "page": 36,
+        "src": "/media/pages/13/13-036.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-8b33629c5d": [
+      {
+        "chapterId": "ch-108",
+        "volume": 13,
+        "page": 36,
+        "src": "/media/pages/13/13-036.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-7210756e15": [
+      {
+        "chapterId": "ch-135",
+        "volume": 16,
+        "page": 36,
+        "src": "/media/pages/16/16-036.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-adeaa6dba7": [
+      {
+        "chapterId": "ch-164",
+        "volume": 19,
+        "page": 61,
+        "src": "/media/pages/19/19-061.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-7958b4020b": [
+      {
+        "chapterId": "ch-218",
+        "volume": 25,
+        "page": 12,
+        "src": "/media/pages/25/25-012.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase6-playful-cloud": [],
+    "tech-df284f67ad": [
+      {
+        "chapterId": "ch-044",
+        "volume": 6,
+        "page": 16,
+        "src": "/media/pages/06/06-016.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase2-oridzuki": [
+      {
+        "chapterId": "ch-025",
+        "volume": 3,
+        "page": 169,
+        "src": "/media/pages/03/03-169.webp",
+        "score": 294,
+        "matchKind": "context-text",
+        "matchedText": "吉野順平",
+        "similarity": null
+      }
+    ],
+    "tech-phase3-drumming-beat": [
+      {
+        "chapterId": "ch-039",
+        "volume": 5,
+        "page": 96,
+        "src": "/media/pages/05/05-096.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-542b17dcab": [
+      {
+        "chapterId": "ch-085",
+        "volume": 10,
+        "page": 124,
+        "src": "/media/pages/10/10-124.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-ff727e6493": [
+      {
+        "chapterId": "ch-014",
+        "volume": 2,
+        "page": 128,
+        "src": "/media/pages/02/02-128.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-4235aca76a": [
+      {
+        "chapterId": "ch-175",
+        "volume": 20,
+        "page": 74,
+        "src": "/media/pages/20/20-074.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-cf2f8dca4a": [],
+    "tech-71a2d65cad": [],
+    "tech-14f96ce777": [
+      {
+        "chapterId": "ch-015",
+        "volume": 2,
+        "page": 160,
+        "src": "/media/pages/02/02-160.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-8b181ff845": [
+      {
+        "chapterId": "ch-069",
+        "volume": 8,
+        "page": 170,
+        "src": "/media/pages/08/08-170.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "無限",
+        "similarity": 1
+      }
+    ],
+    "tech-phase8-blazing-courage": [
+      {
+        "chapterId": "ch-149",
+        "volume": 17,
+        "page": 143,
+        "src": "/media/pages/17/17-143.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-c03b9316e7": [
+      {
+        "chapterId": "ch-227",
+        "volume": 25,
+        "page": 198,
+        "src": "/media/pages/25/25-198.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-c4bca862c9": [
+      {
+        "chapterId": "ch-174",
+        "volume": 20,
+        "page": 65,
+        "src": "/media/pages/20/20-065.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase5-prison-realm": [
+      {
+        "chapterId": "ch-221",
+        "volume": 25,
+        "page": 74,
+        "src": "/media/pages/25/25-074.webp",
+        "score": 1175,
+        "matchKind": "exact-label",
+        "matchedText": "ごくもんきょう",
+        "similarity": 1
+      }
+    ],
+    "tech-346182ab1b": [
+      {
+        "chapterId": "ch-095",
+        "volume": 11,
+        "page": 148,
+        "src": "/media/pages/11/11-148.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-6c8be9e9eb": [
+      {
+        "chapterId": "ch-001",
+        "volume": 1,
+        "page": 38,
+        "src": "/media/pages/01/01-038.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-71d1706395": [
+      {
+        "chapterId": "ch-058",
+        "volume": 7,
+        "page": 130,
+        "src": "/media/pages/07/07-130.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-3f2f2d1e05": [
+      {
+        "chapterId": "ch-023",
+        "volume": 3,
+        "page": 140,
+        "src": "/media/pages/03/03-140.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-5eb242be96": [
+      {
+        "chapterId": "ch-104",
+        "volume": 12,
+        "page": 137,
+        "src": "/media/pages/12/12-137.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-6e8a713c5b": [
+      {
+        "chapterId": "ch-135",
+        "volume": 16,
+        "page": 42,
+        "src": "/media/pages/16/16-042.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-a9deccca5f": [
+      {
+        "chapterId": "ch-219",
+        "volume": 25,
+        "page": 42,
+        "src": "/media/pages/25/25-042.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-2e1d5d03db": [
+      {
+        "chapterId": "ch-249",
+        "volume": 28,
+        "page": 84,
+        "src": "/media/pages/28/28-084.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-7310b2ccf2": [
+      {
+        "chapterId": "ch-255",
+        "volume": 29,
+        "page": 17,
+        "src": "/media/pages/29/29-017.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-160da18a4d": [
+      {
+        "chapterId": "ch-237",
+        "volume": 27,
+        "page": 12,
+        "src": "/media/pages/27/27-012.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-99fb78ca51": [
+      {
+        "chapterId": "ch-102",
+        "volume": 12,
+        "page": 105,
+        "src": "/media/pages/12/12-105.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-c2ae5ed6dc": [
+      {
+        "chapterId": "ch-038",
+        "volume": 5,
+        "page": 83,
+        "src": "/media/pages/05/05-083.webp",
+        "score": 1125,
+        "matchKind": "exact-label",
+        "matchedText": "究極メカ丸",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-039",
+        "volume": 5,
+        "page": 108,
+        "src": "/media/pages/05/05-108.webp",
+        "score": 1125,
+        "matchKind": "exact-label",
+        "matchedText": "究極メカ丸",
+        "similarity": 1
+      }
+    ],
+    "tech-a9666d4ecb": [
+      {
+        "chapterId": "ch-175",
+        "volume": 20,
+        "page": 74,
+        "src": "/media/pages/20/20-074.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-5d6a005065": [
+      {
+        "chapterId": "ch-101",
+        "volume": 12,
+        "page": 85,
+        "src": "/media/pages/12/12-085.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-4b0b9dc682": [
+      {
+        "chapterId": "ch-119",
+        "volume": 14,
+        "page": 79,
+        "src": "/media/pages/14/14-079.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-ffcf652351": [
+      {
+        "chapterId": "ch-097",
+        "volume": 11,
+        "page": 171,
+        "src": "/media/pages/11/11-171.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase8-dragon-bone": [
+      {
+        "chapterId": "ch-148",
+        "volume": 17,
+        "page": 124,
+        "src": "/media/pages/17/17-124.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-e28246ff34": [
+      {
+        "chapterId": "ch-102",
+        "volume": 12,
+        "page": 102,
+        "src": "/media/pages/12/12-102.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "簡易領域",
+        "similarity": 1
+      }
+    ],
+    "tech-932f1fb717": [
+      {
+        "chapterId": "ch-041",
+        "volume": 5,
+        "page": 143,
+        "src": "/media/pages/05/05-143.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-b9467c2180": [
+      {
+        "chapterId": "ch-198",
+        "volume": 22,
+        "page": 153,
+        "src": "/media/pages/22/22-153.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-5491001e9b": [
+      {
+        "chapterId": "ch-161",
+        "volume": 18,
+        "page": 172,
+        "src": "/media/pages/18/18-172.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-3f044a67dc": [
+      {
+        "chapterId": "ch-161",
+        "volume": 18,
+        "page": 168,
+        "src": "/media/pages/18/18-168.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-5c0ec253ee": [
+      {
+        "chapterId": "ch-059",
+        "volume": 7,
+        "page": 151,
+        "src": "/media/pages/07/07-151.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-6246245c7a": [
+      {
+        "chapterId": "ch-269",
+        "volume": 30,
+        "page": 119,
+        "src": "/media/pages/30/30-119.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-f1d024fea2": [
+      {
+        "chapterId": "ch-205",
+        "volume": 23,
+        "page": 124,
+        "src": "/media/pages/23/23-124.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-0be6deff32": [
+      {
+        "chapterId": "ch-096",
+        "volume": 11,
+        "page": 168,
+        "src": "/media/pages/11/11-168.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-78b556c5e7": [
+      {
+        "chapterId": "ch-212",
+        "volume": 24,
+        "page": 78,
+        "src": "/media/pages/24/24-078.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-f0f06d52dc": [
+      {
+        "chapterId": "ch-029",
+        "volume": 4,
+        "page": 88,
+        "src": "/media/pages/04/04-088.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-2ac2471b12": [
+      {
+        "chapterId": "ch-041",
+        "volume": 5,
+        "page": 137,
+        "src": "/media/pages/05/05-137.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "芻霊呪法",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-060",
+        "volume": 7,
+        "page": 170,
+        "src": "/media/pages/07/07-170.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "芻霊呪法",
+        "similarity": 1
+      }
+    ],
+    "tech-phase3-karibarai": [
+      {
+        "chapterId": "ch-045",
+        "volume": 6,
+        "page": 27,
+        "src": "/media/pages/06/06-027.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-7341630eb6": [
+      {
+        "chapterId": "ch-108",
+        "volume": 13,
+        "page": 31,
+        "src": "/media/pages/13/13-031.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-6af565fce4": [
+      {
+        "chapterId": "ch-015",
+        "volume": 2,
+        "page": 154,
+        "src": "/media/pages/02/02-154.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-81aaf10015": [
+      {
+        "chapterId": "ch-108",
+        "volume": 13,
+        "page": 31,
+        "src": "/media/pages/13/13-031.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-82b26de029": [
+      {
+        "chapterId": "ch-257",
+        "volume": 29,
+        "page": 57,
+        "src": "/media/pages/29/29-057.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-1aadb53ceb": [
+      {
+        "chapterId": "ch-264",
+        "volume": 30,
+        "page": 23,
+        "src": "/media/pages/30/30-023.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-fb21434f98": [
+      {
+        "chapterId": "ch-052",
+        "volume": 6,
+        "page": 188,
+        "src": "/media/pages/06/06-188.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-524f0b9364": [
+      {
+        "chapterId": "ch-218",
+        "volume": 25,
+        "page": 9,
+        "src": "/media/pages/25/25-009.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-2440f07b9a": [
+      {
+        "chapterId": "ch-215",
+        "volume": 24,
+        "page": 145,
+        "src": "/media/pages/24/24-145.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-d9efa28175": [
+      {
+        "chapterId": "ch-057",
+        "volume": 7,
+        "page": 94,
+        "src": "/media/pages/07/07-094.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-b18262c082": [
+      {
+        "chapterId": "ch-017",
+        "volume": 3,
+        "page": 17,
+        "src": "/media/pages/03/03-017.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "がま",
+        "similarity": 1
+      }
+    ],
+    "tech-phase6-blood-edge": [
+      {
+        "chapterId": "ch-105",
+        "volume": 12,
+        "page": 155,
+        "src": "/media/pages/12/12-155.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase6-blood-meteorite": [
+      {
+        "chapterId": "ch-104",
+        "volume": 12,
+        "page": 137,
+        "src": "/media/pages/12/12-137.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-2326f083fd": [
+      {
+        "chapterId": "ch-221",
+        "volume": 25,
+        "page": 73,
+        "src": "/media/pages/25/25-073.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-6e6dd087e1": [
+      {
+        "chapterId": "ch-052",
+        "volume": 6,
+        "page": 186,
+        "src": "/media/pages/06/06-186.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      },
+      {
+        "chapterId": "ch-074",
+        "volume": 9,
+        "page": 83,
+        "src": "/media/pages/09/09-083.webp",
+        "score": 810,
+        "matchKind": "fuzzy-label",
+        "matchedText": "術式反転",
+        "similarity": 0.8
+      }
+    ],
+    "tech-90aaa17cfe": [
+      {
+        "chapterId": "ch-052",
+        "volume": 6,
+        "page": 186,
+        "src": "/media/pages/06/06-186.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase5-mechamaru-mode-absolute": [
+      {
+        "chapterId": "ch-080",
+        "volume": 10,
+        "page": 13,
+        "src": "/media/pages/10/10-013.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-d2feb31d47": [
+      {
+        "chapterId": "ch-119",
+        "volume": 14,
+        "page": 69,
+        "src": "/media/pages/14/14-069.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-3bd924870c": [
+      {
+        "chapterId": "ch-164",
+        "volume": 19,
+        "page": 48,
+        "src": "/media/pages/19/19-048.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-5481fbccc6": [
+      {
+        "chapterId": "ch-218",
+        "volume": 25,
+        "page": 18,
+        "src": "/media/pages/25/25-018.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase3-aka-shibari": [
+      {
+        "chapterId": "ch-044",
+        "volume": 6,
+        "page": 18,
+        "src": "/media/pages/06/06-018.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-a1213858c7": [],
+    "tech-e66786ca8f": [
+      {
+        "chapterId": "ch-043",
+        "volume": 5,
+        "page": 179,
+        "src": "/media/pages/05/05-179.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase6-flowing-red-scale-stack": [
+      {
+        "chapterId": "ch-104",
+        "volume": 12,
+        "page": 144,
+        "src": "/media/pages/12/12-144.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-4b352da6cb": [
+      {
+        "chapterId": "ch-240",
+        "volume": 27,
+        "page": 78,
+        "src": "/media/pages/27/27-078.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-17ae81079b": [
+      {
+        "chapterId": "ch-103",
+        "volume": 12,
+        "page": 118,
+        "src": "/media/pages/12/12-118.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase5-pigeon-viola": [
+      {
+        "chapterId": "ch-081",
+        "volume": 10,
+        "page": 37,
+        "src": "/media/pages/10/10-037.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase6-sword-extermination": [
+      {
+        "chapterId": "ch-118",
+        "volume": 14,
+        "page": 53,
+        "src": "/media/pages/14/14-053.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase2-keiteiken": [
+      {
+        "chapterId": "ch-020",
+        "volume": 3,
+        "page": 74,
+        "src": "/media/pages/03/03-074.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-c657f1cc7e": [],
+    "tech-56316150ed": [
+      {
+        "chapterId": "ch-213",
+        "volume": 24,
+        "page": 102,
+        "src": "/media/pages/24/24-102.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase4-split-soul-katana": [
+      {
+        "chapterId": "ch-071",
+        "volume": 9,
+        "page": 25,
+        "src": "/media/pages/09/09-025.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase7-kamai-dan": [
+      {
+        "chapterId": "ch-135",
+        "volume": 16,
+        "page": 40,
+        "src": "/media/pages/16/16-040.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-fbf15eb3e2": [],
+    "tech-aee71097f5": [
+      {
+        "chapterId": "ch-184",
+        "volume": 21,
+        "page": 79,
+        "src": "/media/pages/21/21-079.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-025face7f0": [
+      {
+        "chapterId": "ch-095",
+        "volume": 11,
+        "page": 133,
+        "src": "/media/pages/11/11-133.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-c958121642": [
+      {
+        "chapterId": "ch-135",
+        "volume": 16,
+        "page": 36,
+        "src": "/media/pages/16/16-036.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-34f2643025": [
+      {
+        "chapterId": "ch-084",
+        "volume": 10,
+        "page": 97,
+        "src": "/media/pages/10/10-097.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-708d558bf8": [
+      {
+        "chapterId": "ch-264",
+        "volume": 30,
+        "page": 17,
+        "src": "/media/pages/30/30-017.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-996d48af99": [
+      {
+        "chapterId": "ch-007",
+        "volume": 1,
+        "page": 189,
+        "src": "/media/pages/01/01-189.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-589e683ddd": [
+      {
+        "chapterId": "ch-257",
+        "volume": 29,
+        "page": 56,
+        "src": "/media/pages/29/29-056.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-05be7e32d8": [
+      {
+        "chapterId": "ch-161",
+        "volume": 18,
+        "page": 184,
+        "src": "/media/pages/18/18-184.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-511d655411": [
+      {
+        "chapterId": "ch-168",
+        "volume": 19,
+        "page": 134,
+        "src": "/media/pages/19/19-134.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-ce37bd5b31": [
+      {
+        "chapterId": "ch-174",
+        "volume": 20,
+        "page": 53,
+        "src": "/media/pages/20/20-053.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-69d5ecb511": [
+      {
+        "chapterId": "ch-048",
+        "volume": 6,
+        "page": 89,
+        "src": "/media/pages/06/06-089.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "こくせん",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-234",
+        "volume": 26,
+        "page": 146,
+        "src": "/media/pages/26/26-146.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "こくせん",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-128",
+        "volume": 15,
+        "page": 82,
+        "src": "/media/pages/15/15-082.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "黒閃",
+        "similarity": 1
+      }
+    ],
+    "tech-ab3bfa159a": [
+      {
+        "chapterId": "ch-086",
+        "volume": 10,
+        "page": 130,
+        "src": "/media/pages/10/10-130.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "tech-phase5-ino-ryu": [
+      {
+        "chapterId": "ch-097",
+        "volume": 11,
+        "page": 171,
+        "src": "/media/pages/11/11-171.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ]
+  },
+  "terms": {
+    "term-phase6-adaptation": [
+      {
+        "chapterId": "ch-119",
+        "volume": 14,
+        "page": 69,
+        "src": "/media/pages/14/14-069.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-8a6e43878f": [
+      {
+        "chapterId": "ch-146",
+        "volume": 17,
+        "page": 67,
+        "src": "/media/pages/17/17-067.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase5-new-shadow-style": [
+      {
+        "chapterId": "ch-102",
+        "volume": 12,
+        "page": 102,
+        "src": "/media/pages/12/12-102.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "シン陰流",
+        "similarity": 1
+      }
+    ],
+    "term-f6f3d2df55": [
+      {
+        "chapterId": "ch-185",
+        "volume": 21,
+        "page": 93,
+        "src": "/media/pages/21/21-093.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-38f3fd22bf": [
+      {
+        "chapterId": "ch-271",
+        "volume": 30,
+        "page": 152,
+        "src": "/media/pages/30/30-152.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-b91ee9e36d": [
+      {
+        "chapterId": "ch-073",
+        "volume": 9,
+        "page": 64,
+        "src": "/media/pages/09/09-064.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-399736afa9": [
+      {
+        "chapterId": "ch-208",
+        "volume": 23,
+        "page": 181,
+        "src": "/media/pages/23/23-181.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase3-grade1-recommendation": [
+      {
+        "chapterId": "ch-063",
+        "volume": 8,
+        "page": 47,
+        "src": "/media/pages/08/08-047.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-96346336c2": [
+      {
+        "chapterId": "ch-179",
+        "volume": 20,
+        "page": 147,
+        "src": "/media/pages/20/20-147.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-5aa1fd50d5": [
+      {
+        "chapterId": "ch-236",
+        "volume": 26,
+        "page": 184,
+        "src": "/media/pages/26/26-184.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-a0ce00ef9e": [
+      {
+        "chapterId": "ch-001",
+        "volume": 1,
+        "page": 45,
+        "src": "/media/pages/01/01-045.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-08541db692": [
+      {
+        "chapterId": "ch-117",
+        "volume": 14,
+        "page": 32,
+        "src": "/media/pages/14/14-032.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-549dd18f32": [
+      {
+        "chapterId": "ch-033",
+        "volume": 4,
+        "page": 155,
+        "src": "/media/pages/04/04-155.webp",
+        "score": 1200,
+        "matchKind": "exact-label",
+        "matchedText": "京都姉妹校交流会",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-035",
+        "volume": 5,
+        "page": 9,
+        "src": "/media/pages/05/05-009.webp",
+        "score": 1200,
+        "matchKind": "exact-label",
+        "matchedText": "京都姉妹校交流会",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-036",
+        "volume": 5,
+        "page": 27,
+        "src": "/media/pages/05/05-027.webp",
+        "score": 1200,
+        "matchKind": "exact-label",
+        "matchedText": "京都姉妹校交流会",
+        "similarity": 1
+      }
+    ],
+    "term-02e77960ce": [
+      {
+        "chapterId": "ch-033",
+        "volume": 4,
+        "page": 155,
+        "src": "/media/pages/04/04-155.webp",
+        "score": 316,
+        "matchKind": "context-text",
+        "matchedText": "交流会・京都",
+        "similarity": null
+      },
+      {
+        "chapterId": "ch-034",
+        "volume": 4,
+        "page": 175,
+        "src": "/media/pages/04/04-175.webp",
+        "score": 316,
+        "matchKind": "context-text",
+        "matchedText": "交流会・京都",
+        "similarity": null
+      }
+    ],
+    "term-3efd4cb8d8": [
+      {
+        "chapterId": "ch-176",
+        "volume": 20,
+        "page": 87,
+        "src": "/media/pages/20/20-087.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "仙台結界",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-177",
+        "volume": 20,
+        "page": 107,
+        "src": "/media/pages/20/20-107.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "仙台結界",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-178",
+        "volume": 20,
+        "page": 127,
+        "src": "/media/pages/20/20-127.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "仙台結界",
+        "similarity": 1
+      }
+    ],
+    "term-1f164a840a": [
+      {
+        "chapterId": "ch-174",
+        "volume": 20,
+        "page": 53,
+        "src": "/media/pages/20/20-053.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-78481f5abd": [
+      {
+        "chapterId": "ch-073",
+        "volume": 9,
+        "page": 57,
+        "src": "/media/pages/09/09-057.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-41c52a18d0": [
+      {
+        "chapterId": "ch-205",
+        "volume": 23,
+        "page": 118,
+        "src": "/media/pages/23/23-118.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-f314ce3b7a": [
+      {
+        "chapterId": "ch-213",
+        "volume": 24,
+        "page": 90,
+        "src": "/media/pages/24/24-090.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-61f2f5fc0d": [
+      {
+        "chapterId": "ch-202",
+        "volume": 23,
+        "page": 47,
+        "src": "/media/pages/23/23-047.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-7efec3f5a3": [
+      {
+        "chapterId": "ch-258",
+        "volume": 29,
+        "page": 72,
+        "src": "/media/pages/29/29-072.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase5-six-eyes": [
+      {
+        "chapterId": "ch-071",
+        "volume": 9,
+        "page": 7,
+        "src": "/media/pages/09/09-007.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-3777b71218": [
+      {
+        "chapterId": "ch-043",
+        "volume": 5,
+        "page": 179,
+        "src": "/media/pages/05/05-179.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase7-thousand-year-vows": [
+      {
+        "chapterId": "ch-136",
+        "volume": 16,
+        "page": 49,
+        "src": "/media/pages/16/16-049.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase8-southern-cross": [
+      {
+        "chapterId": "ch-156",
+        "volume": 18,
+        "page": 81,
+        "src": "/media/pages/18/18-081.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-cf5d1ac726": [
+      {
+        "chapterId": "ch-074",
+        "volume": 9,
+        "page": 83,
+        "src": "/media/pages/09/09-083.webp",
+        "score": 305,
+        "matchKind": "context-text",
+        "matchedText": "術式反転",
+        "similarity": null
+      }
+    ],
+    "term-3f0111dca8": [
+      {
+        "chapterId": "ch-212",
+        "volume": 24,
+        "page": 72,
+        "src": "/media/pages/24/24-072.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "受肉",
+        "similarity": 1
+      }
+    ],
+    "term-phase7-incarnated-sorcerer": [
+      {
+        "chapterId": "ch-136",
+        "volume": 16,
+        "page": 49,
+        "src": "/media/pages/16/16-049.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-6de7063fc5": [
+      {
+        "chapterId": "ch-213",
+        "volume": 24,
+        "page": 99,
+        "src": "/media/pages/24/24-099.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c91391b066": [
+      {
+        "chapterId": "zero-01",
+        "volume": 0,
+        "page": 14,
+        "src": "/media/pages/00/00-014.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "呪い",
+        "similarity": 1
+      }
+    ],
+    "term-ed19637c63": [
+      {
+        "chapterId": "ch-071",
+        "volume": 9,
+        "page": 25,
+        "src": "/media/pages/09/09-025.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "呪具",
+        "similarity": 1
+      }
+    ],
+    "term-252cb4a664": [
+      {
+        "chapterId": "ch-012",
+        "volume": 2,
+        "page": 97,
+        "src": "/media/pages/02/02-097.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase7-break-from-cursed-energy": [
+      {
+        "chapterId": "ch-136",
+        "volume": 16,
+        "page": 49,
+        "src": "/media/pages/16/16-049.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase7-cursed-energy-optimization": [
+      {
+        "chapterId": "ch-136",
+        "volume": 16,
+        "page": 50,
+        "src": "/media/pages/16/16-050.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-8485d1a225": [
+      {
+        "chapterId": "ch-184",
+        "volume": 21,
+        "page": 79,
+        "src": "/media/pages/21/21-079.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase4-zero-cursed-energy": [
+      {
+        "chapterId": "ch-073",
+        "volume": 9,
+        "page": 64,
+        "src": "/media/pages/09/09-064.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-cd15f7853a": [
+      {
+        "chapterId": "ch-198",
+        "volume": 22,
+        "page": 147,
+        "src": "/media/pages/22/22-147.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c6defb1c13": [
+      {
+        "chapterId": "ch-177",
+        "volume": 20,
+        "page": 115,
+        "src": "/media/pages/20/20-115.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c8634f0e2d": [
+      {
+        "chapterId": "ch-140",
+        "volume": 16,
+        "page": 133,
+        "src": "/media/pages/16/16-133.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-799b9a99e3": [
+      {
+        "chapterId": "ch-184",
+        "volume": 21,
+        "page": 79,
+        "src": "/media/pages/21/21-079.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-9f7b077da4": [
+      {
+        "chapterId": "ch-140",
+        "volume": 16,
+        "page": 133,
+        "src": "/media/pages/16/16-133.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c063667868": [
+      {
+        "chapterId": "ch-200",
+        "volume": 23,
+        "page": 20,
+        "src": "/media/pages/23/23-020.webp",
+        "score": 305,
+        "matchKind": "context-text",
+        "matchedText": "エネルギ",
+        "similarity": null
+      }
+    ],
+    "term-5b5abca89c": [
+      {
+        "chapterId": "ch-001",
+        "volume": 1,
+        "page": 45,
+        "src": "/media/pages/01/01-045.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-f57cd720b8": [
+      {
+        "chapterId": "ch-212",
+        "volume": 24,
+        "page": 76,
+        "src": "/media/pages/24/24-076.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-d321a3c48f": [
+      {
+        "chapterId": "ch-005",
+        "volume": 1,
+        "page": 149,
+        "src": "/media/pages/01/01-149.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "呪胎",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-006",
+        "volume": 1,
+        "page": 151,
+        "src": "/media/pages/01/01-151.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "呪胎",
+        "similarity": 1
+      }
+    ],
+    "term-c5958133bc": [
+      {
+        "chapterId": "ch-060",
+        "volume": 7,
+        "page": 168,
+        "src": "/media/pages/07/07-168.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase8-twins-jujutsu": [
+      {
+        "chapterId": "ch-149",
+        "volume": 17,
+        "page": 138,
+        "src": "/media/pages/17/17-138.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-32f18a66ec": [
+      {
+        "chapterId": "ch-137",
+        "volume": 16,
+        "page": 86,
+        "src": "/media/pages/16/16-086.webp",
+        "score": 1125,
+        "matchKind": "exact-label",
+        "matchedText": "呪術総監部",
+        "similarity": 1
+      }
+    ],
+    "term-phase8-jujutsu-regulations": [
+      {
+        "chapterId": "ch-077",
+        "volume": 9,
+        "page": 147,
+        "src": "/media/pages/09/09-147.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "呪術規定",
+        "similarity": 1
+      }
+    ],
+    "term-3f92b6bb78": [
+      {
+        "chapterId": "ch-003",
+        "volume": 1,
+        "page": 93,
+        "src": "/media/pages/01/01-093.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "呪術高専",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-065",
+        "volume": 8,
+        "page": 75,
+        "src": "/media/pages/08/08-075.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "呪術高専",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-070",
+        "volume": 8,
+        "page": 181,
+        "src": "/media/pages/08/08-181.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "呪術高専",
+        "similarity": 1
+      }
+    ],
+    "term-041be91538": [
+      {
+        "chapterId": "ch-096",
+        "volume": 11,
+        "page": 161,
+        "src": "/media/pages/11/11-161.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase4-group-q": [
+      {
+        "chapterId": "ch-067",
+        "volume": 8,
+        "page": 129,
+        "src": "/media/pages/08/08-129.webp",
+        "score": 305,
+        "matchKind": "context-text",
+        "matchedText": "天内理子",
+        "similarity": null
+      }
+    ],
+    "term-8914e5bc1a": [
+      {
+        "chapterId": "ch-006",
+        "volume": 1,
+        "page": 152,
+        "src": "/media/pages/01/01-152.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "呪霊",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-025",
+        "volume": 3,
+        "page": 169,
+        "src": "/media/pages/03/03-169.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "呪霊",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-077",
+        "volume": 9,
+        "page": 143,
+        "src": "/media/pages/09/09-143.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "呪霊",
+        "similarity": 1
+      }
+    ],
+    "term-phase3-team-battle": [
+      {
+        "chapterId": "ch-033",
+        "volume": 4,
+        "page": 155,
+        "src": "/media/pages/04/04-155.webp",
+        "score": 612,
+        "matchKind": "context-text",
+        "matchedText": "団体戦・流会一・妹校交・京都姉・校交流",
+        "similarity": null
+      },
+      {
+        "chapterId": "ch-035",
+        "volume": 5,
+        "page": 9,
+        "src": "/media/pages/05/05-009.webp",
+        "score": 612,
+        "matchKind": "context-text",
+        "matchedText": "団体戦・流会一・妹校交・京都姉・校交流",
+        "similarity": null
+      },
+      {
+        "chapterId": "ch-034",
+        "volume": 4,
+        "page": 175,
+        "src": "/media/pages/04/04-175.webp",
+        "score": 452,
+        "matchKind": "context-text",
+        "matchedText": "団体戦・流会一・京都姉・校交流・交流会",
+        "similarity": null
+      }
+    ],
+    "term-37f8736467": [
+      {
+        "chapterId": "ch-185",
+        "volume": 21,
+        "page": 93,
+        "src": "/media/pages/21/21-093.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase5-commissioned-curtain": [
+      {
+        "chapterId": "ch-083",
+        "volume": 10,
+        "page": 67,
+        "src": "/media/pages/10/10-067.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-a927605750": [
+      {
+        "chapterId": "ch-001",
+        "volume": 1,
+        "page": 46,
+        "src": "/media/pages/01/01-046.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-1c3b13971d": [
+      {
+        "chapterId": "ch-183",
+        "volume": 21,
+        "page": 52,
+        "src": "/media/pages/21/21-052.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c3a59e1049": [
+      {
+        "chapterId": "ch-213",
+        "volume": 24,
+        "page": 99,
+        "src": "/media/pages/24/24-099.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-adb9e5012c": [
+      {
+        "chapterId": "ch-209",
+        "volume": 24,
+        "page": 7,
+        "src": "/media/pages/24/24-007.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-bfcc1b065d": [
+      {
+        "chapterId": "ch-073",
+        "volume": 9,
+        "page": 64,
+        "src": "/media/pages/09/09-064.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-dad5591883": [
+      {
+        "chapterId": "ch-202",
+        "volume": 23,
+        "page": 50,
+        "src": "/media/pages/23/23-050.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-87e5231adf": [
+      {
+        "chapterId": "ch-065",
+        "volume": 8,
+        "page": 72,
+        "src": "/media/pages/08/08-072.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-5fdd542215": [
+      {
+        "chapterId": "ch-145",
+        "volume": 17,
+        "page": 63,
+        "src": "/media/pages/17/17-063.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-76365024bd": [
+      {
+        "chapterId": "ch-212",
+        "volume": 24,
+        "page": 76,
+        "src": "/media/pages/24/24-076.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-6024d040a4": [
+      {
+        "chapterId": "ch-238",
+        "volume": 27,
+        "page": 28,
+        "src": "/media/pages/27/27-028.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase8-autonomous-corpse": [
+      {
+        "chapterId": "ch-147",
+        "volume": 17,
+        "page": 89,
+        "src": "/media/pages/17/17-089.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-81cd96e9ac": [
+      {
+        "chapterId": "ch-178",
+        "volume": 20,
+        "page": 128,
+        "src": "/media/pages/20/20-128.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-776e9a8f91": [
+      {
+        "chapterId": "ch-268",
+        "volume": 30,
+        "page": 97,
+        "src": "/media/pages/30/30-097.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-e0d5d36e22": [
+      {
+        "chapterId": "ch-271",
+        "volume": 30,
+        "page": 169,
+        "src": "/media/pages/30/30-169.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c195cec023": [
+      {
+        "chapterId": "ch-171",
+        "volume": 19,
+        "page": 191,
+        "src": "/media/pages/19/19-191.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-f9e3abf542": [
+      {
+        "chapterId": "ch-083",
+        "volume": 10,
+        "page": 67,
+        "src": "/media/pages/10/10-067.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-cba4367139": [
+      {
+        "chapterId": "ch-001",
+        "volume": 1,
+        "page": 38,
+        "src": "/media/pages/01/01-038.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-1e8e6dda24": [
+      {
+        "chapterId": "ch-171",
+        "volume": 19,
+        "page": 191,
+        "src": "/media/pages/19/19-191.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-ed29e09cb0": [
+      {
+        "chapterId": "ch-172",
+        "volume": 20,
+        "page": 7,
+        "src": "/media/pages/20/20-007.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-6d3234fdfd": [
+      {
+        "chapterId": "ch-146",
+        "volume": 17,
+        "page": 74,
+        "src": "/media/pages/17/17-074.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "得点",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-158",
+        "volume": 18,
+        "page": 123,
+        "src": "/media/pages/18/18-123.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "得点",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-158",
+        "volume": 18,
+        "page": 124,
+        "src": "/media/pages/18/18-124.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "得点",
+        "similarity": 1
+      }
+    ],
+    "term-6f7fa8f5d1": [
+      {
+        "chapterId": "ch-117",
+        "volume": 14,
+        "page": 32,
+        "src": "/media/pages/14/14-032.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-d97934afcd": [
+      {
+        "chapterId": "ch-108",
+        "volume": 13,
+        "page": 31,
+        "src": "/media/pages/13/13-031.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-2afcb02ac1": [
+      {
+        "chapterId": "ch-164",
+        "volume": 19,
+        "page": 48,
+        "src": "/media/pages/19/19-048.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c3dbb4af08": [
+      {
+        "chapterId": "ch-191",
+        "volume": 22,
+        "page": 16,
+        "src": "/media/pages/22/22-016.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-43b38a9747": [
+      {
+        "chapterId": "ch-077",
+        "volume": 9,
+        "page": 147,
+        "src": "/media/pages/09/09-147.webp",
+        "score": 371,
+        "matchKind": "context-text",
+        "matchedText": "呪詛師・夏油",
+        "similarity": null
+      }
+    ],
+    "term-905b4f71f8": [
+      {
+        "chapterId": "ch-052",
+        "volume": 6,
+        "page": 186,
+        "src": "/media/pages/06/06-186.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase5-transfigured-human": [
+      {
+        "chapterId": "ch-089",
+        "volume": 11,
+        "page": 26,
+        "src": "/media/pages/11/11-026.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "改造人間",
+        "similarity": 1
+      }
+    ],
+    "term-9227db2dd2": [
+      {
+        "chapterId": "ch-269",
+        "volume": 30,
+        "page": 121,
+        "src": "/media/pages/30/30-121.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c71851990e": [
+      {
+        "chapterId": "ch-164",
+        "volume": 19,
+        "page": 48,
+        "src": "/media/pages/19/19-048.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-6f0611c4ff": [
+      {
+        "chapterId": "ch-065",
+        "volume": 8,
+        "page": 72,
+        "src": "/media/pages/08/08-072.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase4-time-vessel-association": [
+      {
+        "chapterId": "ch-067",
+        "volume": 8,
+        "page": 129,
+        "src": "/media/pages/08/08-129.webp",
+        "score": 305,
+        "matchKind": "context-text",
+        "matchedText": "天内理子",
+        "similarity": null
+      }
+    ],
+    "term-152790e31d": [
+      {
+        "chapterId": "ch-165",
+        "volume": 19,
+        "page": 67,
+        "src": "/media/pages/19/19-067.webp",
+        "score": 1150,
+        "matchKind": "exact-label",
+        "matchedText": "東京第1結界",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-168",
+        "volume": 19,
+        "page": 126,
+        "src": "/media/pages/19/19-126.webp",
+        "score": 1150,
+        "matchKind": "exact-label",
+        "matchedText": "東京第1結界",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-169",
+        "volume": 19,
+        "page": 149,
+        "src": "/media/pages/19/19-149.webp",
+        "score": 1150,
+        "matchKind": "exact-label",
+        "matchedText": "東京第1結界",
+        "similarity": 1
+      }
+    ],
+    "term-5c353791e3": [
+      {
+        "chapterId": "ch-181",
+        "volume": 21,
+        "page": 7,
+        "src": "/media/pages/21/21-007.webp",
+        "score": 1150,
+        "matchKind": "exact-label",
+        "matchedText": "東京第2結界",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-182",
+        "volume": 21,
+        "page": 31,
+        "src": "/media/pages/21/21-031.webp",
+        "score": 1150,
+        "matchKind": "exact-label",
+        "matchedText": "東京第2結界",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-184",
+        "volume": 21,
+        "page": 71,
+        "src": "/media/pages/21/21-071.webp",
+        "score": 1150,
+        "matchKind": "exact-label",
+        "matchedText": "東京第2結界",
+        "similarity": 1
+      }
+    ],
+    "term-c2a46f1804": [
+      {
+        "chapterId": "zero-01",
+        "volume": 0,
+        "page": 36,
+        "src": "/media/pages/00/00-036.webp",
+        "score": 1300,
+        "matchKind": "exact-label",
+        "matchedText": "東京都立呪術高等専門学校",
+        "similarity": 1
+      }
+    ],
+    "term-c2f186c626": [
+      {
+        "chapterId": "ch-191",
+        "volume": 22,
+        "page": 7,
+        "src": "/media/pages/22/22-007.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "桜島結界",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-194",
+        "volume": 22,
+        "page": 67,
+        "src": "/media/pages/22/22-067.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "桜島結界",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-199",
+        "volume": 22,
+        "page": 185,
+        "src": "/media/pages/22/22-185.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "桜島結界",
+        "similarity": 1
+      }
+    ],
+    "term-907c704f71": [
+      {
+        "chapterId": "ch-134",
+        "volume": 16,
+        "page": 26,
+        "src": "/media/pages/16/16-026.webp",
+        "score": 1075,
+        "matchKind": "exact-label",
+        "matchedText": "極ノ番",
+        "similarity": 1
+      }
+    ],
+    "term-phase6-positive-energy": [
+      {
+        "chapterId": "ch-118",
+        "volume": 14,
+        "page": 53,
+        "src": "/media/pages/14/14-053.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-60e959b66f": [
+      {
+        "chapterId": "ch-166",
+        "volume": 19,
+        "page": 89,
+        "src": "/media/pages/19/19-089.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-bb89ef15f2": [
+      {
+        "chapterId": "ch-146",
+        "volume": 17,
+        "page": 67,
+        "src": "/media/pages/17/17-067.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "死滅回游",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-211",
+        "volume": 24,
+        "page": 52,
+        "src": "/media/pages/24/24-052.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "死滅回游",
+        "similarity": 1
+      }
+    ],
+    "term-f98498c1ef": [
+      {
+        "chapterId": "ch-209",
+        "volume": 24,
+        "page": 18,
+        "src": "/media/pages/24/24-018.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-50ea4b9d52": [
+      {
+        "chapterId": "ch-220",
+        "volume": 25,
+        "page": 53,
+        "src": "/media/pages/25/25-053.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase8-poison": [
+      {
+        "chapterId": "ch-061",
+        "volume": 7,
+        "page": 177,
+        "src": "/media/pages/07/07-177.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-7a45f4dbe5": [
+      {
+        "chapterId": "ch-245",
+        "volume": 27,
+        "page": 181,
+        "src": "/media/pages/27/27-181.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-49963d44ff": [
+      {
+        "chapterId": "ch-158",
+        "volume": 18,
+        "page": 116,
+        "src": "/media/pages/18/18-116.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "泳者",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-146",
+        "volume": 17,
+        "page": 67,
+        "src": "/media/pages/17/17-067.webp",
+        "score": 252,
+        "matchKind": "context-text",
+        "matchedText": "死滅回游",
+        "similarity": null
+      },
+      {
+        "chapterId": "ch-146",
+        "volume": 17,
+        "page": 74,
+        "src": "/media/pages/17/17-074.webp",
+        "score": 252,
+        "matchKind": "context-text",
+        "matchedText": "死滅回游",
+        "similarity": null
+      }
+    ],
+    "term-8ae4844630": [
+      {
+        "chapterId": "ch-216",
+        "volume": 24,
+        "page": 157,
+        "src": "/media/pages/24/24-157.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-3da4cfdc55": [
+      {
+        "chapterId": "ch-216",
+        "volume": 24,
+        "page": 159,
+        "src": "/media/pages/24/24-159.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-33c0eaca30": [
+      {
+        "chapterId": "ch-086",
+        "volume": 10,
+        "page": 129,
+        "src": "/media/pages/10/10-129.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "渋谷事変",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-089",
+        "volume": 11,
+        "page": 7,
+        "src": "/media/pages/11/11-007.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "渋谷事変",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-093",
+        "volume": 11,
+        "page": 91,
+        "src": "/media/pages/11/11-091.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "渋谷事変",
+        "similarity": 1
+      }
+    ],
+    "term-64abcd060b": [
+      {
+        "chapterId": "ch-051",
+        "volume": 6,
+        "page": 165,
+        "src": "/media/pages/06/06-165.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase8-hei": [
+      {
+        "chapterId": "ch-150",
+        "volume": 17,
+        "page": 153,
+        "src": "/media/pages/17/17-153.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-965bdc282e": [
+      {
+        "chapterId": "ch-196",
+        "volume": 22,
+        "page": 111,
+        "src": "/media/pages/22/22-111.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-58511e940d": [
+      {
+        "chapterId": "ch-138",
+        "volume": 16,
+        "page": 92,
+        "src": "/media/pages/16/16-092.webp",
+        "score": 834,
+        "matchKind": "fuzzy-label",
+        "matchedText": "特別1級術師",
+        "similarity": 0.833
+      }
+    ],
+    "term-7037f2a1bd": [
+      {
+        "chapterId": "ch-076",
+        "volume": 9,
+        "page": 117,
+        "src": "/media/pages/09/09-117.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-bf1b3beaca": [
+      {
+        "chapterId": "ch-071",
+        "volume": 9,
+        "page": 25,
+        "src": "/media/pages/09/09-025.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "特級呪具",
+        "similarity": 1
+      }
+    ],
+    "term-0a4956ab6c": [
+      {
+        "chapterId": "ch-001",
+        "volume": 1,
+        "page": 45,
+        "src": "/media/pages/01/01-045.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase5-special-grade-curse": [
+      {
+        "chapterId": "ch-174",
+        "volume": 20,
+        "page": 53,
+        "src": "/media/pages/20/20-053.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase6-special-disease-curse": [],
+    "term-6e7e2b846e": [
+      {
+        "chapterId": "ch-090",
+        "volume": 11,
+        "page": 34,
+        "src": "/media/pages/11/11-034.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-f9dde75323": [
+      {
+        "chapterId": "ch-221",
+        "volume": 25,
+        "page": 74,
+        "src": "/media/pages/25/25-074.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "獄門疆裏",
+        "similarity": 1
+      }
+    ],
+    "term-phase5-prison-realm-condition": [
+      {
+        "chapterId": "ch-090",
+        "volume": 11,
+        "page": 35,
+        "src": "/media/pages/11/11-035.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-cabc80296a": [
+      {
+        "chapterId": "ch-133",
+        "volume": 15,
+        "page": 191,
+        "src": "/media/pages/15/15-191.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-ea9fe4b536": [
+      {
+        "chapterId": "ch-010",
+        "volume": 2,
+        "page": 63,
+        "src": "/media/pages/02/02-063.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-e6db99e6ff": [
+      {
+        "chapterId": "zero-03",
+        "volume": 0,
+        "page": 126,
+        "src": "/media/pages/00/00-126.webp",
+        "score": 796,
+        "matchKind": "fuzzy-label",
+        "matchedText": "百普鬼夜行",
+        "similarity": 0.8
+      }
+    ],
+    "term-phase4-star-religious-group": [
+      {
+        "chapterId": "ch-074",
+        "volume": 9,
+        "page": 69,
+        "src": "/media/pages/09/09-069.webp",
+        "score": 1075,
+        "matchKind": "exact-label",
+        "matchedText": "盤星教",
+        "similarity": 1
+      }
+    ],
+    "term-03b8fbd157": [
+      {
+        "chapterId": "ch-196",
+        "volume": 22,
+        "page": 107,
+        "src": "/media/pages/22/22-107.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-f74654d902": [
+      {
+        "chapterId": "ch-148",
+        "volume": 17,
+        "page": 107,
+        "src": "/media/pages/17/17-107.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase8-cursed-warehouse": [
+      {
+        "chapterId": "ch-148",
+        "volume": 17,
+        "page": 110,
+        "src": "/media/pages/17/17-110.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-9ff83181a2": [],
+    "term-2408e781f0": [
+      {
+        "chapterId": "ch-206",
+        "volume": 23,
+        "page": 129,
+        "src": "/media/pages/23/23-129.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "空性結界",
+        "similarity": 1
+      }
+    ],
+    "term-phase3-abrupt-mutated-corpse": [
+      {
+        "chapterId": "ch-038",
+        "volume": 5,
+        "page": 83,
+        "src": "/media/pages/05/05-083.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-67566a7224": [
+      {
+        "chapterId": "ch-006",
+        "volume": 1,
+        "page": 165,
+        "src": "/media/pages/01/01-165.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-e28246ff34": [
+      {
+        "chapterId": "ch-102",
+        "volume": 12,
+        "page": 102,
+        "src": "/media/pages/12/12-102.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "簡易領域",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-108",
+        "volume": 13,
+        "page": 35,
+        "src": "/media/pages/13/13-035.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "簡易領域",
+        "similarity": 1
+      }
+    ],
+    "term-phase6-open-barrier-domain": [
+      {
+        "chapterId": "ch-119",
+        "volume": 14,
+        "page": 71,
+        "src": "/media/pages/14/14-071.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-3c7a37c125": [
+      {
+        "chapterId": "ch-161",
+        "volume": 18,
+        "page": 167,
+        "src": "/media/pages/18/18-167.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-5a7fcb32e8": [
+      {
+        "chapterId": "ch-258",
+        "volume": 29,
+        "page": 68,
+        "src": "/media/pages/29/29-068.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-59acaaffab": [
+      {
+        "chapterId": "ch-146",
+        "volume": 17,
+        "page": 67,
+        "src": "/media/pages/17/17-067.webp",
+        "score": 252,
+        "matchKind": "context-text",
+        "matchedText": "死滅回游",
+        "similarity": null
+      }
+    ],
+    "term-79c25be05f": [
+      {
+        "chapterId": "ch-146",
+        "volume": 17,
+        "page": 74,
+        "src": "/media/pages/17/17-074.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "総則",
+        "similarity": 1
+      }
+    ],
+    "term-7ef1b59819": [
+      {
+        "chapterId": "ch-167",
+        "volume": 19,
+        "page": 107,
+        "src": "/media/pages/19/19-107.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c38a86467e": [
+      {
+        "chapterId": "ch-211",
+        "volume": 24,
+        "page": 52,
+        "src": "/media/pages/24/24-052.webp",
+        "score": 390,
+        "matchKind": "context-text",
+        "matchedText": "死滅回游・離脱",
+        "similarity": null
+      }
+    ],
+    "term-40e6a89fc4": [
+      {
+        "chapterId": "ch-212",
+        "volume": 24,
+        "page": 76,
+        "src": "/media/pages/24/24-076.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-01e0c1e52e": [
+      {
+        "chapterId": "ch-166",
+        "volume": 19,
+        "page": 89,
+        "src": "/media/pages/19/19-089.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase5-body": [],
+    "term-7341630eb6": [
+      {
+        "chapterId": "ch-226",
+        "volume": 25,
+        "page": 179,
+        "src": "/media/pages/25/25-179.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-58cf854ee7": [
+      {
+        "chapterId": "ch-202",
+        "volume": 23,
+        "page": 55,
+        "src": "/media/pages/23/23-055.webp",
+        "score": 1075,
+        "matchKind": "exact-label",
+        "matchedText": "薨星宮",
+        "similarity": 1
+      }
+    ],
+    "term-1fd2866c44": [
+      {
+        "chapterId": "ch-257",
+        "volume": 29,
+        "page": 48,
+        "src": "/media/pages/29/29-048.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-e3eff1da1c": [
+      {
+        "chapterId": "ch-019",
+        "volume": 3,
+        "page": 55,
+        "src": "/media/pages/03/03-055.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "術師",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-030",
+        "volume": 4,
+        "page": 93,
+        "src": "/media/pages/04/04-093.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "術師",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-083",
+        "volume": 10,
+        "page": 68,
+        "src": "/media/pages/10/10-068.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "術師",
+        "similarity": 1
+      }
+    ],
+    "term-phase4-sorcerer-killer": [
+      {
+        "chapterId": "ch-073",
+        "volume": 9,
+        "page": 64,
+        "src": "/media/pages/09/09-064.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-ad8bd57883": [
+      {
+        "chapterId": "ch-156",
+        "volume": 18,
+        "page": 68,
+        "src": "/media/pages/18/18-068.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "術式",
+        "similarity": 1
+      }
+    ],
+    "term-phase4-limitless-automation": [
+      {
+        "chapterId": "ch-076",
+        "volume": 9,
+        "page": 115,
+        "src": "/media/pages/09/09-115.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-54c44682c5": [
+      {
+        "chapterId": "ch-227",
+        "volume": 25,
+        "page": 198,
+        "src": "/media/pages/25/25-198.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-2a5525400d": [
+      {
+        "chapterId": "ch-050",
+        "volume": 6,
+        "page": 139,
+        "src": "/media/pages/06/06-139.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-278ed5da66": [
+      {
+        "chapterId": "ch-146",
+        "volume": 17,
+        "page": 72,
+        "src": "/media/pages/17/17-072.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-dbce7f28c0": [
+      {
+        "chapterId": "ch-074",
+        "volume": 9,
+        "page": 83,
+        "src": "/media/pages/09/09-083.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "術式反転",
+        "similarity": 1
+      }
+    ],
+    "term-phase7-technique-extraction": [
+      {
+        "chapterId": "ch-134",
+        "volume": 16,
+        "page": 26,
+        "src": "/media/pages/16/16-026.webp",
+        "score": 294,
+        "matchKind": "context-text",
+        "matchedText": "呪霊操術",
+        "similarity": null
+      }
+    ],
+    "term-f7be87831e": [
+      {
+        "chapterId": "ch-213",
+        "volume": 24,
+        "page": 102,
+        "src": "/media/pages/24/24-102.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-8ecf601679": [
+      {
+        "chapterId": "ch-052",
+        "volume": 6,
+        "page": 186,
+        "src": "/media/pages/06/06-186.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-c74cac6805": [
+      {
+        "chapterId": "zero-02",
+        "volume": 0,
+        "page": 75,
+        "src": "/media/pages/00/00-075.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "補助監督",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-006",
+        "volume": 1,
+        "page": 151,
+        "src": "/media/pages/01/01-151.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "補助監督",
+        "similarity": 1
+      }
+    ],
+    "term-phase7-awakened-sorcerer": [
+      {
+        "chapterId": "ch-136",
+        "volume": 16,
+        "page": 50,
+        "src": "/media/pages/16/16-050.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-2e3682fd6a": [
+      {
+        "chapterId": "zero-04",
+        "volume": 0,
+        "page": 194,
+        "src": "/media/pages/00/00-194.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase8-punishment-room": [
+      {
+        "chapterId": "ch-149",
+        "volume": 17,
+        "page": 140,
+        "src": "/media/pages/17/17-140.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase6-taming-ritual": [
+      {
+        "chapterId": "ch-117",
+        "volume": 14,
+        "page": 37,
+        "src": "/media/pages/14/14-037.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase8-kukuru": [
+      {
+        "chapterId": "ch-150",
+        "volume": 17,
+        "page": 153,
+        "src": "/media/pages/17/17-153.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-3c3554872b": [
+      {
+        "chapterId": "ch-020",
+        "volume": 3,
+        "page": 74,
+        "src": "/media/pages/03/03-074.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-e70d29a871": [
+      {
+        "chapterId": "zero-01",
+        "volume": 0,
+        "page": 21,
+        "src": "/media/pages/00/00-021.webp",
+        "score": 287,
+        "matchKind": "context-text",
+        "matchedText": "祈本里香",
+        "similarity": null
+      }
+    ],
+    "term-fe317d92dc": [
+      {
+        "chapterId": "ch-252",
+        "volume": 28,
+        "page": 141,
+        "src": "/media/pages/28/28-141.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-5cb906769f": [
+      {
+        "chapterId": "ch-119",
+        "volume": 14,
+        "page": 71,
+        "src": "/media/pages/14/14-071.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-e2187cdee5": [
+      {
+        "chapterId": "ch-164",
+        "volume": 19,
+        "page": 48,
+        "src": "/media/pages/19/19-048.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-cf5652fdbe": [
+      {
+        "chapterId": "ch-076",
+        "volume": 9,
+        "page": 108,
+        "src": "/media/pages/09/09-108.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-811629f74a": [
+      {
+        "chapterId": "ch-192",
+        "volume": 22,
+        "page": 30,
+        "src": "/media/pages/22/22-030.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-8caa008608": [
+      {
+        "chapterId": "ch-015",
+        "volume": 2,
+        "page": 160,
+        "src": "/media/pages/02/02-160.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-phase6-domain-clash": [
+      {
+        "chapterId": "ch-108",
+        "volume": 13,
+        "page": 31,
+        "src": "/media/pages/13/13-031.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-34f2643025": [
+      {
+        "chapterId": "ch-084",
+        "volume": 10,
+        "page": 97,
+        "src": "/media/pages/10/10-097.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-e6a70dfe56": [
+      {
+        "chapterId": "ch-030",
+        "volume": 4,
+        "page": 92,
+        "src": "/media/pages/04/04-092.webp",
+        "score": 1100,
+        "matchKind": "exact-label",
+        "matchedText": "領域展開",
+        "similarity": 1
+      }
+    ],
+    "term-phase4-mole": [
+      {
+        "chapterId": "ch-079",
+        "volume": 9,
+        "page": 180,
+        "src": "/media/pages/09/09-180.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-65867f280c": [],
+    "term-bb7659490f": [
+      {
+        "chapterId": "ch-264",
+        "volume": 30,
+        "page": 17,
+        "src": "/media/pages/30/30-017.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-fd9bed17d6": [
+      {
+        "chapterId": "ch-145",
+        "volume": 17,
+        "page": 63,
+        "src": "/media/pages/17/17-063.webp",
+        "score": 2000,
+        "matchKind": "visual-confirmed",
+        "matchedText": "",
+        "similarity": null
+      }
+    ],
+    "term-69d5ecb511": [
+      {
+        "chapterId": "ch-048",
+        "volume": 6,
+        "page": 89,
+        "src": "/media/pages/06/06-089.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "黒閃",
+        "similarity": 1
+      },
+      {
+        "chapterId": "ch-128",
+        "volume": 15,
+        "page": 82,
+        "src": "/media/pages/15/15-082.webp",
+        "score": 1050,
+        "matchKind": "exact-label",
+        "matchedText": "黒閃",
+        "similarity": 1
+      }
+    ]
+  }
+}
