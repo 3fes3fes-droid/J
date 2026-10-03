@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "incremental": false,
+    "plugins": [],
+    "types": ["vite/client", "node"]
+  },
+  "include": [
+    "app/database-app.tsx",
+    "app/pages-entry.tsx",
+    "app/pages-assets.mjs",
+    "app/types.ts",
+    "vite.pages.config.ts"
+  ],
+  "exclude": ["node_modules", "dist"]
+}
