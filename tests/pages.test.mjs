@@ -1,9 +1,24 @@
 import assert from "node:assert/strict";
 import { readFileSync, existsSync } from "node:fs";
 import test from "node:test";
+import { runInNewContext } from "node:vm";
 import { publicAsset, imageSources } from "../app/pages-assets.mjs";
 
 const pageIds = JSON.parse(readFileSync(new URL("../data/drive/page-ids.json", import.meta.url), "utf8"));
+
+test("GitHub entry opens the private same-origin viewer without redirecting that viewer or local previews", () => {
+  const html = readFileSync(new URL("../dist/index.html", import.meta.url), "utf8");
+  const script = html.match(/<script data-private-site-entry>([\s\S]*?)<\/script>/)?.[1];
+  assert.ok(script);
+  for (const origin of ["https://3fes3fes-droid.github.io", "https://mitsuyasu-memory.mitsuyasuuu.chatgpt.site", "http://localhost:4173"]) {
+    const destinations = [];
+    runInNewContext(script, { window: { location: {
+      origin, search: "?q=04", hash: "#chapter", replace: (url) => destinations.push(url),
+    } } });
+    assert.deepEqual(destinations, origin === "https://3fes3fes-droid.github.io"
+      ? ["https://mitsuyasu-memory.mitsuyasuuu.chatgpt.site/J/?q=04#chapter"] : []);
+  }
+});
 
 test("every manga page resolves to its original PNG on the owner-only Site", () => {
   assert.equal(Object.keys(pageIds).length, 6260);
