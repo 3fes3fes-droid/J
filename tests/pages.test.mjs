@@ -5,18 +5,17 @@ import { publicAsset, imageSources } from "../app/pages-assets.mjs";
 
 const pageIds = JSON.parse(readFileSync(new URL("../data/drive/page-ids.json", import.meta.url), "utf8"));
 
-test("every manga page resolves to its own Drive ID at thumbnail and reading sizes", () => {
+test("every manga page resolves to its original PNG on the owner-only Site", () => {
   assert.equal(Object.keys(pageIds).length, 6260);
-  for (const [key, id] of Object.entries(pageIds)) {
+  for (const key of Object.keys(pageIds)) {
     const volume = key.slice(0, 2);
-    for (const [path, size] of [
-      [`/media/pages/${volume}/${key}.webp`, "w800"],
-      [`/media/original/pages/${volume}/${key}.png`, "s0"],
+    for (const path of [
+      `/media/pages/${volume}/${key}.webp`,
+      `/media/original/pages/${volume}/${key}.png`,
     ]) {
-      const [primary, fallback] = imageSources(path, "/J/");
-      assert.equal(new URL(primary).pathname, `/d/${id}=${size}`);
-      assert.equal(new URL(fallback).searchParams.get("id"), id);
-      assert.equal(new URL(fallback).hostname, "drive.google.com");
+      assert.deepEqual(imageSources(path, "/J/"), [
+        `https://mitsuyasu-memory.mitsuyasuuu.chatgpt.site/media/jujutsu/${volume}/${key}.png`,
+      ]);
     }
   }
   assert.deepEqual(imageSources("/media/pages/99/99-999.webp", "/J/"), []);

@@ -13,10 +13,7 @@ export function imageSources(src, base = import.meta.env?.BASE_URL || "/") {
   if (!match) return [publicAsset(src, base)];
   const id = drivePageIds[`${match[2]}-${match[3]}`];
   if (!id) return [];
-  const encoded = encodeURIComponent(id);
-  const fullSize = Boolean(match[1]);
   return [
-    `https://lh3.googleusercontent.com/d/${encoded}=${fullSize ? "s0" : "w800"}`,
-    `https://drive.google.com/thumbnail?id=${encoded}&sz=${fullSize ? "w2560" : "w800"}`,
+    `https://mitsuyasu-memory.mitsuyasuuu.chatgpt.site/media/jujutsu/${match[2]}/${match[2]}-${match[3]}.png`,
   ];
 }
