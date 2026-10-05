@@ -1,36 +1,22 @@
 import assert from "node:assert/strict";
 import { readFileSync, existsSync } from "node:fs";
 import test from "node:test";
-import { runInNewContext } from "node:vm";
 import { publicAsset, imageSources } from "../app/pages-assets.mjs";
 
 const pageIds = JSON.parse(readFileSync(new URL("../data/drive/page-ids.json", import.meta.url), "utf8"));
 
-test("GitHub entry opens the private same-origin viewer without redirecting that viewer or local previews", () => {
-  const html = readFileSync(new URL("../dist/index.html", import.meta.url), "utf8");
-  const script = html.match(/<script data-private-site-entry>([\s\S]*?)<\/script>/)?.[1];
-  assert.ok(script);
-  for (const origin of ["https://3fes3fes-droid.github.io", "https://mitsuyasu-memory.mitsuyasuuu.chatgpt.site", "http://localhost:4173"]) {
-    const destinations = [];
-    runInNewContext(script, { window: { location: {
-      origin, search: "?q=04", hash: "#chapter", replace: (url) => destinations.push(url),
-    } } });
-    assert.deepEqual(destinations, origin === "https://3fes3fes-droid.github.io"
-      ? ["https://mitsuyasu-memory.mitsuyasuuu.chatgpt.site/J/?q=04#chapter"] : []);
-  }
-});
-
-test("every manga page resolves to its original PNG on the owner-only Site", () => {
+test("every manga page resolves to its own Drive ID at thumbnail and reading sizes", () => {
   assert.equal(Object.keys(pageIds).length, 6260);
-  for (const key of Object.keys(pageIds)) {
+  for (const [key, id] of Object.entries(pageIds)) {
     const volume = key.slice(0, 2);
-    for (const path of [
-      `/media/pages/${volume}/${key}.webp`,
-      `/media/original/pages/${volume}/${key}.png`,
+    for (const [path, size] of [
+      [`/media/pages/${volume}/${key}.webp`, "w800"],
+      [`/media/original/pages/${volume}/${key}.png`, "s0"],
     ]) {
-      assert.deepEqual(imageSources(path, "/J/"), [
-        `https://mitsuyasu-memory.mitsuyasuuu.chatgpt.site/media/jujutsu/${volume}/${key}.png`,
-      ]);
+      const [primary, fallback] = imageSources(path, "/J/");
+      assert.equal(new URL(primary).pathname, `/d/${id}=${size}`);
+      assert.equal(new URL(fallback).searchParams.get("id"), id);
+      assert.equal(new URL(fallback).hostname, "drive.google.com");
     }
   }
   assert.deepEqual(imageSources("/media/pages/99/99-999.webp", "/J/"), []);
