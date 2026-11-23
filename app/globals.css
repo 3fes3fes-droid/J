@@ -2593,3 +2593,7 @@ summary:focus-visible {
     animation-iteration-count: 1 !important;
   }
 }
+/* GALLERY-STANDARD v1: column count follows InlineRecordGrid. */
+.chapter-grid,.volume-grid,.character-grid{gap:0!important;padding:0!important;margin:0!important;max-width:none}
+.chapter-grid > *,.volume-grid > *,.character-grid > *{border:0!important;border-radius:0!important;box-shadow:none!important;margin:0!important;max-width:none!important}
+.chapter-grid img,.volume-grid img,.character-grid img{border-radius:0!important}

@@ -546,9 +546,8 @@ function SectionView({
           section="chapters"
           items={chapterItems}
           gridClassName="chapter-grid"
-          fixedColumns={3}
           minWidth={340}
-          gap={5}
+          gap={0}
           mobileColumns={3}
           selected={selected}
           close={close}
@@ -567,8 +566,8 @@ function SectionView({
           items={volumeItems}
           gridClassName="volume-grid"
           minWidth={330}
-          gap={5}
-          mobileColumns={2}
+          gap={0}
+          mobileColumns={3}
           selected={selected}
           close={close}
           openRecord={openRecord}
@@ -584,8 +583,8 @@ function SectionView({
           items={characterItems}
           gridClassName="character-grid"
           minWidth={126}
-          gap={16}
-          mobileColumns={4}
+          gap={0}
+          mobileColumns={3}
           selected={selected}
           close={close}
           openRecord={openRecord}
@@ -674,14 +673,15 @@ function InlineRecordGrid<T extends { id: string }>({
   renderCard: (item: T, isSelected: boolean) => React.ReactNode;
 }) {
   const listRef = useRef<HTMLDivElement>(null);
-  const [columns, setColumns] = useState(() => fixedColumns ?? Math.max(mobileColumns, Math.floor((1280 + gap) / (minWidth + gap))));
+  const imageGrid = ["chapter-grid", "volume-grid", "character-grid"].includes(gridClassName);
+  const [columns, setColumns] = useState(() => imageGrid ? 3 : fixedColumns ?? Math.max(mobileColumns, Math.floor((1280 + gap) / (minWidth + gap))));
 
   useEffect(() => {
     const node = listRef.current;
     if (!node) return;
     const update = () => {
       const width = node.clientWidth;
-      const next = fixedColumns ?? (window.innerWidth <= 680
+      const next = imageGrid ? (window.innerWidth >= 1600 ? 4 : 3) : fixedColumns ?? (window.innerWidth <= 680
         ? mobileColumns
         : Math.max(1, Math.floor((width + gap) / (minWidth + gap))));
       setColumns(next);
@@ -694,7 +694,7 @@ function InlineRecordGrid<T extends { id: string }>({
       observer.disconnect();
       window.removeEventListener("resize", update);
     };
-  }, [fixedColumns, gap, minWidth, mobileColumns]);
+  }, [fixedColumns, gap, minWidth, mobileColumns, imageGrid]);
 
   const rowCount = Math.ceil(items.length / columns);
   const isSelected = (item: T) => selected?.section === (itemSection?.(item) ?? section) && selected.id === item.id;

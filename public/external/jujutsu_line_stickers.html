@@ -59,6 +59,15 @@
       .stickers { gap: 8px; }
       .sticker { max-width: 100%; }
     }
+
+    body{padding:0}
+    header{padding-inline:8px}
+    section{max-width:none;width:100%;padding:0;border:0;border-radius:0}
+    section h2,section .count{padding-inline:8px}
+    .stickers{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0}
+    .sticker{padding:0;border-radius:0;min-width:0}
+    .sticker img{width:100%;height:auto;display:block}
+    @media(min-width:1600px){.stickers{grid-template-columns:repeat(4,minmax(0,1fr))}}
   </style>
 </head>
 <body>
